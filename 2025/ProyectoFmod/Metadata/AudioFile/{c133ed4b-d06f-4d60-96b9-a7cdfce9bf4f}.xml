@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c133ed4b-d06f-4d60-96b9-a7cdfce9bf4f}">
+		<property name="assetPath">
+			<value>Weapons/crowbar_swing_4.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.33600000000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e025d9f9-cd83-47d5-9394-ce3f07f4cab4}</destination>
+		</relationship>
+	</object>
+</objects>

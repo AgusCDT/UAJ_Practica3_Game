@@ -1,0 +1,5154 @@
+fileFormatVersion: 2
+guid: 53ad4fb1579b17948815ec25ad557c4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5535923353101058254
+    second: '!$Elevator Doors Ace_0'
+  - first:
+      213: 3729751511118276532
+    second: '!$Elevator Doors Ace_1'
+  - first:
+      213: 8007442175916084489
+    second: '!$Elevator Doors Ace_2'
+  - first:
+      213: -1345313540459302228
+    second: '!$Elevator Doors Ace_3'
+  - first:
+      213: -6334907390679820576
+    second: '!$Elevator Doors Ace_4'
+  - first:
+      213: 9030613237423631222
+    second: '!$Elevator Doors Ace_5'
+  - first:
+      213: 6543301621558971829
+    second: '!$Elevator Doors Ace_6'
+  - first:
+      213: -2845480912206180828
+    second: '!$Elevator Doors Ace_7'
+  - first:
+      213: -7490209009038188817
+    second: '!$Elevator Doors Ace_8'
+  - first:
+      213: -4315513960304491734
+    second: '!$Elevator Doors Ace_9'
+  - first:
+      213: 8386766090378285902
+    second: '!$Elevator Doors Ace_10'
+  - first:
+      213: 4269376037716040493
+    second: '!$Elevator Doors Ace_11'
+  - first:
+      213: -8084798092164648515
+    second: '!$Elevator Doors Ace_12'
+  - first:
+      213: 5608165866982123215
+    second: '!$Elevator Doors Ace_13'
+  - first:
+      213: 4456938416852597369
+    second: '!$Elevator Doors Ace_14'
+  - first:
+      213: -1025958047289184900
+    second: '!$Elevator Doors Ace_15'
+  - first:
+      213: -3564619137572997498
+    second: '!$Elevator Doors Ace_16'
+  - first:
+      213: -7354144400959452226
+    second: '!$Elevator Doors Ace_17'
+  - first:
+      213: -2442956212242228683
+    second: '!$Elevator Doors Ace_18'
+  - first:
+      213: -6799781387690305589
+    second: '!$Elevator Doors Ace_19'
+  - first:
+      213: 4110623902233374389
+    second: '!$Elevator Doors Ace_20'
+  - first:
+      213: -8888619392711476163
+    second: '!$Elevator Doors Ace_21'
+  - first:
+      213: 3514962805166817187
+    second: '!$Elevator Doors Ace_22'
+  - first:
+      213: 5778421910881886201
+    second: '!$Elevator Doors Ace_23'
+  - first:
+      213: 3844643174050400505
+    second: '!$Elevator Doors Ace_24'
+  - first:
+      213: -5712207831277611588
+    second: '!$Elevator Doors Ace_25'
+  - first:
+      213: -3356227921806693898
+    second: '!$Elevator Doors Ace_26'
+  - first:
+      213: 5331703735965885743
+    second: '!$Elevator Doors Ace_27'
+  - first:
+      213: -4132418150135527249
+    second: '!$Elevator Doors Ace_28'
+  - first:
+      213: -8054514670987731106
+    second: '!$Elevator Doors Ace_29'
+  - first:
+      213: -2511091321512878982
+    second: '!$Elevator Doors Ace_30'
+  - first:
+      213: 4962214334399758007
+    second: '!$Elevator Doors Ace_31'
+  - first:
+      213: 3204157986992161374
+    second: '!$Elevator Doors Ace_32'
+  - first:
+      213: -3361343992838585087
+    second: '!$Elevator Doors Ace_33'
+  - first:
+      213: -1240868770832754730
+    second: '!$Elevator Doors Ace_34'
+  - first:
+      213: -2546121255825402366
+    second: '!$Elevator Doors Ace_35'
+  - first:
+      213: 5235348156036823754
+    second: '!$Elevator Doors Ace_36'
+  - first:
+      213: 3599195716091765356
+    second: '!$Elevator Doors Ace_37'
+  - first:
+      213: -7116950395929087458
+    second: '!$Elevator Doors Ace_38'
+  - first:
+      213: 5626777923388660878
+    second: '!$Elevator Doors Ace_39'
+  - first:
+      213: 4048278591361157276
+    second: '!$Elevator Doors Ace_40'
+  - first:
+      213: -4650620617287337124
+    second: '!$Elevator Doors Ace_41'
+  - first:
+      213: -2823257394883446521
+    second: '!$Elevator Doors Ace_42'
+  - first:
+      213: 568170181934194466
+    second: '!$Elevator Doors Ace_43'
+  - first:
+      213: -493298546341785052
+    second: '!$Elevator Doors Ace_44'
+  - first:
+      213: -3926182581263508121
+    second: '!$Elevator Doors Ace_45'
+  - first:
+      213: -8750110046255185567
+    second: '!$Elevator Doors Ace_46'
+  - first:
+      213: 1873501201969367707
+    second: '!$Elevator Doors Ace_47'
+  - first:
+      213: -4058171298238376968
+    second: '!$Elevator Doors Ace_48'
+  - first:
+      213: 1432663492979572125
+    second: '!$Elevator Doors Ace_49'
+  - first:
+      213: -3197364919721006619
+    second: '!$Elevator Doors Ace_50'
+  - first:
+      213: 62413309571222512
+    second: '!$Elevator Doors Ace_51'
+  - first:
+      213: 1927691727838464477
+    second: '!$Elevator Doors Ace_52'
+  - first:
+      213: 7953458156805092718
+    second: '!$Elevator Doors Ace_53'
+  - first:
+      213: 268067716879671181
+    second: '!$Elevator Doors Ace_54'
+  - first:
+      213: 8631583663013811906
+    second: '!$Elevator Doors Ace_55'
+  - first:
+      213: -3863706789965950996
+    second: '!$Elevator Doors Ace_56'
+  - first:
+      213: -5475191092102137895
+    second: '!$Elevator Doors Ace_57'
+  - first:
+      213: 1313863659092046015
+    second: '!$Elevator Doors Ace_58'
+  - first:
+      213: -3013435750221776515
+    second: '!$Elevator Doors Ace_59'
+  - first:
+      213: 3558008196375427728
+    second: '!$Elevator Doors Ace_60'
+  - first:
+      213: -6387792379823320859
+    second: '!$Elevator Doors Ace_61'
+  - first:
+      213: 6674713823142329858
+    second: '!$Elevator Doors Ace_62'
+  - first:
+      213: 910826936194381727
+    second: '!$Elevator Doors Ace_63'
+  - first:
+      213: 7347345791827715276
+    second: '!$Elevator Doors Ace_64'
+  - first:
+      213: -2605113739286961785
+    second: '!$Elevator Doors Ace_65'
+  - first:
+      213: 5084160593966080083
+    second: '!$Elevator Doors Ace_66'
+  - first:
+      213: 8849135631076748381
+    second: '!$Elevator Doors Ace_67'
+  - first:
+      213: 7852910162330784841
+    second: '!$Elevator Doors Ace_68'
+  - first:
+      213: -3678343002281491912
+    second: '!$Elevator Doors Ace_69'
+  - first:
+      213: 5461398390868816588
+    second: '!$Elevator Doors Ace_70'
+  - first:
+      213: -1680337085111172360
+    second: '!$Elevator Doors Ace_71'
+  - first:
+      213: 2881551145667185522
+    second: '!$Elevator Doors Ace_72'
+  - first:
+      213: -5283029712381937903
+    second: '!$Elevator Doors Ace_73'
+  - first:
+      213: 4155436171869668665
+    second: '!$Elevator Doors Ace_74'
+  - first:
+      213: -661050199915414017
+    second: '!$Elevator Doors Ace_75'
+  - first:
+      213: 6253801450997272216
+    second: '!$Elevator Doors Ace_76'
+  - first:
+      213: -8890377947009983228
+    second: '!$Elevator Doors Ace_77'
+  - first:
+      213: 3633990293297923361
+    second: '!$Elevator Doors Ace_78'
+  - first:
+      213: 1785510419361001455
+    second: '!$Elevator Doors Ace_79'
+  - first:
+      213: 2867486538594850261
+    second: '!$Elevator Doors Ace_80'
+  - first:
+      213: 8354062541685111516
+    second: '!$Elevator Doors Ace_81'
+  - first:
+      213: 848526531813983350
+    second: '!$Elevator Doors Ace_82'
+  - first:
+      213: 7600622825981938542
+    second: '!$Elevator Doors Ace_83'
+  - first:
+      213: 7474378276979510168
+    second: '!$Elevator Doors Ace_84'
+  - first:
+      213: 5693308959636083603
+    second: '!$Elevator Doors Ace_85'
+  - first:
+      213: -4529238009963446055
+    second: '!$Elevator Doors Ace_86'
+  - first:
+      213: 1660896477885437657
+    second: '!$Elevator Doors Ace_87'
+  - first:
+      213: -6110364313548085276
+    second: '!$Elevator Doors Ace_88'
+  - first:
+      213: -7528727343073074353
+    second: '!$Elevator Doors Ace_89'
+  - first:
+      213: 9130752832520558668
+    second: '!$Elevator Doors Ace_90'
+  - first:
+      213: 9216816891115036464
+    second: '!$Elevator Doors Ace_91'
+  - first:
+      213: -8878174750519843158
+    second: '!$Elevator Doors Ace_92'
+  - first:
+      213: 7348392020463330733
+    second: '!$Elevator Doors Ace_93'
+  - first:
+      213: -1933909082864399154
+    second: '!$Elevator Doors Ace_94'
+  - first:
+      213: 4688855804607795110
+    second: '!$Elevator Doors Ace_95'
+  - first:
+      213: -784081245331879452
+    second: '!$Elevator Doors Ace_96'
+  - first:
+      213: 2489806572905165259
+    second: '!$Elevator Doors Ace_97'
+  - first:
+      213: 2970381328545855611
+    second: '!$Elevator Doors Ace_98'
+  - first:
+      213: -8757368384200130667
+    second: '!$Elevator Doors Ace_99'
+  - first:
+      213: 5261750638113536996
+    second: '!$Elevator Doors Ace_100'
+  - first:
+      213: 1749540469005296093
+    second: '!$Elevator Doors Ace_101'
+  - first:
+      213: -8297203562312170131
+    second: '!$Elevator Doors Ace_102'
+  - first:
+      213: 1841533196818518782
+    second: '!$Elevator Doors Ace_103'
+  - first:
+      213: -2870404278862746875
+    second: '!$Elevator Doors Ace_104'
+  - first:
+      213: 1959588258321555276
+    second: '!$Elevator Doors Ace_105'
+  - first:
+      213: 3364532708579955609
+    second: '!$Elevator Doors Ace_106'
+  - first:
+      213: 1858207281460506870
+    second: '!$Elevator Doors Ace_107'
+  - first:
+      213: 4380973455674074973
+    second: '!$Elevator Doors Ace_108'
+  - first:
+      213: 4323535348123324241
+    second: '!$Elevator Doors Ace_109'
+  - first:
+      213: 7431879537297445616
+    second: '!$Elevator Doors Ace_110'
+  - first:
+      213: -1113026870877565757
+    second: '!$Elevator Doors Ace_111'
+  - first:
+      213: -3674277256290646344
+    second: '!$Elevator Doors Ace_112'
+  - first:
+      213: 1666863588708079697
+    second: '!$Elevator Doors Ace_113'
+  - first:
+      213: -7688507337733055595
+    second: '!$Elevator Doors Ace_114'
+  - first:
+      213: -5132529036362423756
+    second: '!$Elevator Doors Ace_115'
+  - first:
+      213: 2327040369509723138
+    second: '!$Elevator Doors Ace_116'
+  - first:
+      213: 7454034492500541131
+    second: '!$Elevator Doors Ace_117'
+  - first:
+      213: 314314974686878061
+    second: '!$Elevator Doors Ace_118'
+  - first:
+      213: 4355190427089804412
+    second: '!$Elevator Doors Ace_119'
+  - first:
+      213: -2394151313407100496
+    second: '!$Elevator Doors Ace_120'
+  - first:
+      213: -7598029045190181520
+    second: '!$Elevator Doors Ace_121'
+  - first:
+      213: 7071897793843031508
+    second: '!$Elevator Doors Ace_122'
+  - first:
+      213: -5744737131315426600
+    second: '!$Elevator Doors Ace_123'
+  - first:
+      213: 1105325070475077254
+    second: '!$Elevator Doors Ace_124'
+  - first:
+      213: 2164013852180963822
+    second: '!$Elevator Doors Ace_125'
+  - first:
+      213: -6868324336695988297
+    second: '!$Elevator Doors Ace_126'
+  - first:
+      213: 7167715964342272002
+    second: '!$Elevator Doors Ace_127'
+  - first:
+      213: -7935576357588022957
+    second: '!$Elevator Doors Ace_128'
+  - first:
+      213: 5811366290255841422
+    second: '!$Elevator Doors Ace_129'
+  - first:
+      213: -104494527418507403
+    second: '!$Elevator Doors Ace_130'
+  - first:
+      213: -7482831348453332072
+    second: '!$Elevator Doors Ace_131'
+  - first:
+      213: -8433348385378854746
+    second: '!$Elevator Doors Ace_132'
+  - first:
+      213: -8995735460077681891
+    second: '!$Elevator Doors Ace_133'
+  - first:
+      213: 8926785183507961137
+    second: '!$Elevator Doors Ace_134'
+  - first:
+      213: -4940705934107957744
+    second: '!$Elevator Doors Ace_135'
+  - first:
+      213: -4240404440829290204
+    second: '!$Elevator Doors Ace_136'
+  - first:
+      213: -7893825379922390030
+    second: '!$Elevator Doors Ace_137'
+  - first:
+      213: -7977353155601785316
+    second: '!$Elevator Doors Ace_138'
+  - first:
+      213: -6706736066692170826
+    second: '!$Elevator Doors Ace_139'
+  - first:
+      213: 4488636754977589789
+    second: '!$Elevator Doors Ace_140'
+  - first:
+      213: 9163236963391813499
+    second: '!$Elevator Doors Ace_141'
+  - first:
+      213: -568319881400070933
+    second: '!$Elevator Doors Ace_142'
+  - first:
+      213: -2803733517651339008
+    second: '!$Elevator Doors Ace_143'
+  - first:
+      213: -6129398884182441364
+    second: '!$Elevator Doors Ace_144'
+  - first:
+      213: -8307339080844884927
+    second: '!$Elevator Doors Ace_145'
+  - first:
+      213: 8209614824776394117
+    second: '!$Elevator Doors Ace_146'
+  - first:
+      213: 6245720982828003609
+    second: '!$Elevator Doors Ace_147'
+  - first:
+      213: 5183984127556092393
+    second: '!$Elevator Doors Ace_148'
+  - first:
+      213: -2778387566886852940
+    second: '!$Elevator Doors Ace_149'
+  - first:
+      213: -347762867289909799
+    second: '!$Elevator Doors Ace_150'
+  - first:
+      213: 620456475168639008
+    second: '!$Elevator Doors Ace_151'
+  - first:
+      213: -4251982741799747473
+    second: '!$Elevator Doors Ace_152'
+  - first:
+      213: -6712915271279366222
+    second: '!$Elevator Doors Ace_153'
+  - first:
+      213: 8018472218347478964
+    second: '!$Elevator Doors Ace_154'
+  - first:
+      213: -1019482557352339394
+    second: '!$Elevator Doors Ace_155'
+  - first:
+      213: -6369792255002136213
+    second: '!$Elevator Doors Ace_156'
+  - first:
+      213: -1901156510137309400
+    second: '!$Elevator Doors Ace_157'
+  - first:
+      213: -5090579798158943646
+    second: '!$Elevator Doors Ace_158'
+  - first:
+      213: 3660258382063094355
+    second: '!$Elevator Doors Ace_159'
+  - first:
+      213: -7706971532699036555
+    second: '!$Elevator Doors Ace_160'
+  - first:
+      213: 2757722767260950238
+    second: '!$Elevator Doors Ace_161'
+  - first:
+      213: 1427059568568419905
+    second: '!$Elevator Doors Ace_162'
+  - first:
+      213: -2369358253145432867
+    second: '!$Elevator Doors Ace_163'
+  - first:
+      213: 1171081154666955518
+    second: '!$Elevator Doors Ace_164'
+  - first:
+      213: 759995952725203214
+    second: '!$Elevator Doors Ace_165'
+  - first:
+      213: 8262526885663237203
+    second: '!$Elevator Doors Ace_166'
+  - first:
+      213: 5562811924268049615
+    second: '!$Elevator Doors Ace_167'
+  - first:
+      213: -110025777021104638
+    second: '!$Elevator Doors Ace_168'
+  - first:
+      213: -7577077097758854245
+    second: '!$Elevator Doors Ace_169'
+  - first:
+      213: -2181311973722760301
+    second: '!$Elevator Doors Ace_170'
+  - first:
+      213: -9076384217522796111
+    second: '!$Elevator Doors Ace_171'
+  - first:
+      213: -4666967610571449252
+    second: '!$Elevator Doors Ace_172'
+  - first:
+      213: 3311792439106180584
+    second: '!$Elevator Doors Ace_173'
+  - first:
+      213: -6374257519586748329
+    second: '!$Elevator Doors Ace_174'
+  - first:
+      213: -7032235075197450945
+    second: '!$Elevator Doors Ace_175'
+  - first:
+      213: 7777224326406269254
+    second: '!$Elevator Doors Ace_176'
+  - first:
+      213: 4107338682652358546
+    second: '!$Elevator Doors Ace_177'
+  - first:
+      213: 1646968002064415167
+    second: '!$Elevator Doors Ace_178'
+  - first:
+      213: -4609294695413305006
+    second: '!$Elevator Doors Ace_179'
+  - first:
+      213: 7471447951921036945
+    second: '!$Elevator Doors Ace_180'
+  - first:
+      213: -6311276144462296005
+    second: '!$Elevator Doors Ace_181'
+  - first:
+      213: -5888549623828915130
+    second: '!$Elevator Doors Ace_182'
+  - first:
+      213: 9169505890840291131
+    second: '!$Elevator Doors Ace_183'
+  - first:
+      213: 546689269890352562
+    second: '!$Elevator Doors Ace_184'
+  - first:
+      213: 5486246858753608570
+    second: '!$Elevator Doors Ace_185'
+  - first:
+      213: 8783398248379711606
+    second: '!$Elevator Doors Ace_186'
+  - first:
+      213: 7327466010911835654
+    second: '!$Elevator Doors Ace_187'
+  - first:
+      213: 7355736566723924407
+    second: '!$Elevator Doors Ace_188'
+  - first:
+      213: -8292066023054273058
+    second: '!$Elevator Doors Ace_189'
+  - first:
+      213: -7440378634415499346
+    second: '!$Elevator Doors Ace_190'
+  - first:
+      213: -9070960985027849376
+    second: '!$Elevator Doors Ace_191'
+  - first:
+      213: -4416684482310716059
+    second: '!$Elevator Doors Ace_192'
+  - first:
+      213: 7967835717703858836
+    second: '!$Elevator Doors Ace_193'
+  - first:
+      213: 4645968148424770269
+    second: '!$Elevator Doors Ace_194'
+  - first:
+      213: -7658453183607721899
+    second: '!$Elevator Doors Ace_195'
+  - first:
+      213: -667371806479437300
+    second: '!$Elevator Doors Ace_196'
+  - first:
+      213: 7405591573093302446
+    second: '!$Elevator Doors Ace_197'
+  - first:
+      213: -3868155743440681640
+    second: '!$Elevator Doors Ace_198'
+  - first:
+      213: 4532164131168547030
+    second: '!$Elevator Doors Ace_199'
+  - first:
+      213: 5907021840980734407
+    second: '!$Elevator Doors Ace_200'
+  - first:
+      213: -2462280056672783466
+    second: '!$Elevator Doors Ace_201'
+  - first:
+      213: 714812843427802059
+    second: '!$Elevator Doors Ace_202'
+  - first:
+      213: -5266771180141767049
+    second: '!$Elevator Doors Ace_203'
+  - first:
+      213: 4450094602708839019
+    second: '!$Elevator Doors Ace_204'
+  - first:
+      213: 6687360948210741551
+    second: '!$Elevator Doors Ace_205'
+  - first:
+      213: -5984531084408061393
+    second: '!$Elevator Doors Ace_206'
+  - first:
+      213: -7376901274752134197
+    second: '!$Elevator Doors Ace_207'
+  - first:
+      213: 8165627828849257997
+    second: '!$Elevator Doors Ace_208'
+  - first:
+      213: -6402310160549162742
+    second: '!$Elevator Doors Ace_209'
+  - first:
+      213: -2101231753128113423
+    second: '!$Elevator Doors Ace_210'
+  - first:
+      213: -224586172652246791
+    second: '!$Elevator Doors Ace_211'
+  - first:
+      213: 2562491673177697430
+    second: '!$Elevator Doors Ace_212'
+  - first:
+      213: 928665875856271494
+    second: '!$Elevator Doors Ace_213'
+  - first:
+      213: 3556888277290490257
+    second: '!$Elevator Doors Ace_214'
+  - first:
+      213: 3677031914874317966
+    second: '!$Elevator Doors Ace_215'
+  - first:
+      213: 2743884010551375664
+    second: '!$Elevator Doors Ace_216'
+  - first:
+      213: -3173234186547289867
+    second: '!$Elevator Doors Ace_217'
+  - first:
+      213: 3368117321849610069
+    second: '!$Elevator Doors Ace_218'
+  - first:
+      213: 4928653815082944039
+    second: '!$Elevator Doors Ace_219'
+  - first:
+      213: 8208111175434993789
+    second: '!$Elevator Doors Ace_220'
+  - first:
+      213: 4410372481348719457
+    second: '!$Elevator Doors Ace_221'
+  - first:
+      213: -2771231612904636522
+    second: '!$Elevator Doors Ace_222'
+  - first:
+      213: -251977775626582092
+    second: '!$Elevator Doors Ace_223'
+  - first:
+      213: -6082266551226975860
+    second: '!$Elevator Doors Ace_224'
+  - first:
+      213: 7204292005598308015
+    second: '!$Elevator Doors Ace_225'
+  - first:
+      213: 7682192544098203735
+    second: '!$Elevator Doors Ace_226'
+  - first:
+      213: -1096594476174341459
+    second: '!$Elevator Doors Ace_227'
+  - first:
+      213: 8076251014247082886
+    second: '!$Elevator Doors Ace_228'
+  - first:
+      213: -7069868147423562305
+    second: '!$Elevator Doors Ace_229'
+  - first:
+      213: -4686357749655289071
+    second: '!$Elevator Doors Ace_230'
+  - first:
+      213: 5488785183242877961
+    second: '!$Elevator Doors Ace_231'
+  - first:
+      213: 2007125466296076096
+    second: '!$Elevator Doors Ace_232'
+  - first:
+      213: -6497000602719571996
+    second: '!$Elevator Doors Ace_233'
+  - first:
+      213: 3680799148913882624
+    second: '!$Elevator Doors Ace_234'
+  - first:
+      213: -2121725173001064311
+    second: '!$Elevator Doors Ace_235'
+  - first:
+      213: -4687659220511249080
+    second: '!$Elevator Doors Ace_236'
+  - first:
+      213: 6268659755953809043
+    second: '!$Elevator Doors Ace_237'
+  - first:
+      213: 4079862799151029871
+    second: '!$Elevator Doors Ace_238'
+  - first:
+      213: -5128567206662123536
+    second: '!$Elevator Doors Ace_239'
+  - first:
+      213: -3818038492519485388
+    second: '!$Elevator Doors Ace_240'
+  - first:
+      213: -65790933108787899
+    second: '!$Elevator Doors Ace_241'
+  - first:
+      213: -6507930278719162823
+    second: '!$Elevator Doors Ace_242'
+  - first:
+      213: -2104814658446253705
+    second: '!$Elevator Doors Ace_243'
+  - first:
+      213: -1306211148079220286
+    second: '!$Elevator Doors Ace_244'
+  - first:
+      213: 4608684706959264406
+    second: '!$Elevator Doors Ace_245'
+  - first:
+      213: -8528642606111860068
+    second: '!$Elevator Doors Ace_246'
+  - first:
+      213: -7516213961778427609
+    second: '!$Elevator Doors Ace_247'
+  - first:
+      213: 6265672679945799025
+    second: '!$Elevator Doors Ace_248'
+  - first:
+      213: 5239922145143390199
+    second: '!$Elevator Doors Ace_249'
+  - first:
+      213: -5546140796845580866
+    second: '!$Elevator Doors Ace_250'
+  - first:
+      213: -4622769387336784536
+    second: '!$Elevator Doors Ace_251'
+  - first:
+      213: -5866701475301741434
+    second: '!$Elevator Doors Ace_252'
+  - first:
+      213: -256441584125297027
+    second: '!$Elevator Doors Ace_253'
+  - first:
+      213: -2483874981037199967
+    second: '!$Elevator Doors Ace_254'
+  - first:
+      213: -8340517577119878111
+    second: '!$Elevator Doors Ace_255'
+  - first:
+      213: -235958968072889428
+    second: '!$Elevator Doors Ace_256'
+  - first:
+      213: 8771064076774774640
+    second: '!$Elevator Doors Ace_257'
+  - first:
+      213: 4998726309314119300
+    second: '!$Elevator Doors Ace_258'
+  - first:
+      213: 7698832131339356638
+    second: '!$Elevator Doors Ace_259'
+  - first:
+      213: 2449361158259039496
+    second: '!$Elevator Doors Ace_260'
+  - first:
+      213: -7167280180706167278
+    second: '!$Elevator Doors Ace_261'
+  - first:
+      213: 2922168621929835017
+    second: '!$Elevator Doors Ace_262'
+  - first:
+      213: -7641173816597968359
+    second: '!$Elevator Doors Ace_263'
+  - first:
+      213: -315857653664445637
+    second: '!$Elevator Doors Ace_264'
+  - first:
+      213: 4321736286000321197
+    second: '!$Elevator Doors Ace_265'
+  - first:
+      213: 696776852912570285
+    second: '!$Elevator Doors Ace_266'
+  - first:
+      213: -7647712657385142649
+    second: '!$Elevator Doors Ace_267'
+  - first:
+      213: -1358424392117360617
+    second: '!$Elevator Doors Ace_268'
+  - first:
+      213: -7138441060193657729
+    second: '!$Elevator Doors Ace_269'
+  - first:
+      213: 6155704080716911433
+    second: '!$Elevator Doors Ace_270'
+  - first:
+      213: -4525808356539269710
+    second: '!$Elevator Doors Ace_271'
+  - first:
+      213: -331101341143540892
+    second: '!$Elevator Doors Ace_272'
+  - first:
+      213: -5244303090925021910
+    second: '!$Elevator Doors Ace_273'
+  - first:
+      213: -365475335501230289
+    second: '!$Elevator Doors Ace_274'
+  - first:
+      213: -7319700174003050396
+    second: '!$Elevator Doors Ace_275'
+  - first:
+      213: -2571546331007671377
+    second: '!$Elevator Doors Ace_276'
+  - first:
+      213: 2659202888599154057
+    second: '!$Elevator Doors Ace_277'
+  - first:
+      213: -5251078858582362859
+    second: '!$Elevator Doors Ace_278'
+  - first:
+      213: 6348215089006745518
+    second: '!$Elevator Doors Ace_279'
+  - first:
+      213: -7201936326193428479
+    second: '!$Elevator Doors Ace_280'
+  - first:
+      213: 66475429100600134
+    second: '!$Elevator Doors Ace_281'
+  - first:
+      213: 1298465000756336240
+    second: '!$Elevator Doors Ace_282'
+  - first:
+      213: -4837141975000792440
+    second: '!$Elevator Doors Ace_283'
+  - first:
+      213: -666290994967359507
+    second: '!$Elevator Doors Ace_284'
+  - first:
+      213: 6098649412715777322
+    second: '!$Elevator Doors Ace_285'
+  - first:
+      213: -8063298500765441567
+    second: '!$Elevator Doors Ace_286'
+  - first:
+      213: 2630220873670521916
+    second: '!$Elevator Doors Ace_287'
+  - first:
+      213: 2186673354776560638
+    second: '!$Elevator Doors Ace_288'
+  - first:
+      213: -5900561924709899532
+    second: '!$Elevator Doors Ace_289'
+  - first:
+      213: 7850546319504515581
+    second: '!$Elevator Doors Ace_290'
+  - first:
+      213: 3139452242332390830
+    second: '!$Elevator Doors Ace_291'
+  - first:
+      213: -4678304134250947443
+    second: '!$Elevator Doors Ace_292'
+  - first:
+      213: 3872081778716778391
+    second: '!$Elevator Doors Ace_293'
+  - first:
+      213: 7899705189043879452
+    second: '!$Elevator Doors Ace_294'
+  - first:
+      213: 1106627244769887284
+    second: '!$Elevator Doors Ace_295'
+  - first:
+      213: 4981619985790854507
+    second: '!$Elevator Doors Ace_296'
+  - first:
+      213: 3411695921751797214
+    second: '!$Elevator Doors Ace_297'
+  - first:
+      213: -5095747140638561792
+    second: '!$Elevator Doors Ace_298'
+  - first:
+      213: -1066672281010235388
+    second: '!$Elevator Doors Ace_299'
+  - first:
+      213: -9104940315797488274
+    second: '!$Elevator Doors Ace_300'
+  - first:
+      213: 6614168203585777279
+    second: '!$Elevator Doors Ace_301'
+  - first:
+      213: -8818721229207705488
+    second: '!$Elevator Doors Ace_302'
+  - first:
+      213: -7245510087650074360
+    second: '!$Elevator Doors Ace_303'
+  - first:
+      213: 363135058403453455
+    second: '!$Elevator Doors Ace_304'
+  - first:
+      213: -7998291442441447269
+    second: '!$Elevator Doors Ace_305'
+  - first:
+      213: -4298258253741630997
+    second: '!$Elevator Doors Ace_306'
+  - first:
+      213: -3545682616179128460
+    second: '!$Elevator Doors Ace_307'
+  - first:
+      213: 297670812361331179
+    second: '!$Elevator Doors Ace_308'
+  - first:
+      213: -1205974479970730697
+    second: '!$Elevator Doors Ace_309'
+  - first:
+      213: 6736827227479706914
+    second: '!$Elevator Doors Ace_310'
+  - first:
+      213: -2897986611567690014
+    second: '!$Elevator Doors Ace_311'
+  - first:
+      213: 1528356776058514258
+    second: '!$Elevator Doors Ace_312'
+  - first:
+      213: -2770429833442865566
+    second: '!$Elevator Doors Ace_313'
+  - first:
+      213: -7201883903687392119
+    second: '!$Elevator Doors Ace_314'
+  - first:
+      213: 5975472074428844324
+    second: '!$Elevator Doors Ace_315'
+  - first:
+      213: 2332906025897508522
+    second: '!$Elevator Doors Ace_316'
+  - first:
+      213: 4974669847919490365
+    second: '!$Elevator Doors Ace_317'
+  - first:
+      213: 3552974344157931804
+    second: '!$Elevator Doors Ace_318'
+  - first:
+      213: -7708686633741858258
+    second: '!$Elevator Doors Ace_319'
+  - first:
+      213: 2923154985047010503
+    second: '!$Elevator Doors Ace_320'
+  - first:
+      213: 6162293034182036014
+    second: '!$Elevator Doors Ace_321'
+  - first:
+      213: -8322650520691045831
+    second: '!$Elevator Doors Ace_322'
+  - first:
+      213: -6209512370718592685
+    second: '!$Elevator Doors Ace_323'
+  - first:
+      213: 2877742219406866316
+    second: '!$Elevator Doors Ace_324'
+  - first:
+      213: 6403526705406362385
+    second: '!$Elevator Doors Ace_325'
+  - first:
+      213: -9079340383437502662
+    second: '!$Elevator Doors Ace_326'
+  - first:
+      213: 6691039464911126349
+    second: '!$Elevator Doors Ace_327'
+  - first:
+      213: -3455417685909870586
+    second: '!$Elevator Doors Ace_328'
+  - first:
+      213: 8411725493110529135
+    second: '!$Elevator Doors Ace_329'
+  - first:
+      213: -2827803380156539505
+    second: '!$Elevator Doors Ace_330'
+  - first:
+      213: 5373317992236445049
+    second: '!$Elevator Doors Ace_331'
+  - first:
+      213: -3421446958854879955
+    second: '!$Elevator Doors Ace_332'
+  - first:
+      213: -6789830989644196880
+    second: '!$Elevator Doors Ace_333'
+  - first:
+      213: 3226997638059147776
+    second: '!$Elevator Doors Ace_334'
+  - first:
+      213: 3419989824138354184
+    second: '!$Elevator Doors Ace_335'
+  - first:
+      213: -3570103518774363580
+    second: '!$Elevator Doors Ace_336'
+  - first:
+      213: 1768511907341971448
+    second: '!$Elevator Doors Ace_337'
+  - first:
+      213: 6771574966003966323
+    second: '!$Elevator Doors Ace_338'
+  - first:
+      213: -7012792679110758543
+    second: '!$Elevator Doors Ace_339'
+  - first:
+      213: -84975497381523463
+    second: '!$Elevator Doors Ace_340'
+  - first:
+      213: 179639854990232419
+    second: '!$Elevator Doors Ace_341'
+  - first:
+      213: 6626715551343659709
+    second: '!$Elevator Doors Ace_342'
+  - first:
+      213: -3270961709280123307
+    second: '!$Elevator Doors Ace_343'
+  - first:
+      213: 5256840164659248371
+    second: '!$Elevator Doors Ace_344'
+  - first:
+      213: 2430501222206162061
+    second: '!$Elevator Doors Ace_345'
+  - first:
+      213: 6424395737259672011
+    second: '!$Elevator Doors Ace_346'
+  - first:
+      213: -2118049283036415573
+    second: '!$Elevator Doors Ace_347'
+  - first:
+      213: -3668918214621666437
+    second: '!$Elevator Doors Ace_348'
+  - first:
+      213: 4850176914256418291
+    second: '!$Elevator Doors Ace_349'
+  - first:
+      213: 1466259934615968846
+    second: '!$Elevator Doors Ace_350'
+  - first:
+      213: -510419617288054444
+    second: '!$Elevator Doors Ace_351'
+  - first:
+      213: -1965598408660075486
+    second: '!$Elevator Doors Ace_352'
+  - first:
+      213: -6216398414107194915
+    second: '!$Elevator Doors Ace_353'
+  - first:
+      213: -163781672241559448
+    second: '!$Elevator Doors Ace_354'
+  - first:
+      213: -7786914624323174047
+    second: '!$Elevator Doors Ace_355'
+  - first:
+      213: -3756809122493743431
+    second: '!$Elevator Doors Ace_356'
+  - first:
+      213: -4661644930311490028
+    second: '!$Elevator Doors Ace_357'
+  - first:
+      213: -3882425064340488278
+    second: '!$Elevator Doors Ace_358'
+  - first:
+      213: -3244306789129754158
+    second: '!$Elevator Doors Ace_359'
+  - first:
+      213: -732236462348108474
+    second: '!$Elevator Doors Ace_360'
+  - first:
+      213: -5112536447386430249
+    second: '!$Elevator Doors Ace_361'
+  - first:
+      213: -8752208798916809780
+    second: '!$Elevator Doors Ace_362'
+  - first:
+      213: -4704995594983339306
+    second: '!$Elevator Doors Ace_363'
+  - first:
+      213: 3888336927297247963
+    second: '!$Elevator Doors Ace_364'
+  - first:
+      213: 5848593109029368230
+    second: '!$Elevator Doors Ace_365'
+  - first:
+      213: 8156413746082330439
+    second: '!$Elevator Doors Ace_366'
+  - first:
+      213: -2275718087448720423
+    second: '!$Elevator Doors Ace_367'
+  - first:
+      213: 3951893818606356391
+    second: '!$Elevator Doors Ace_368'
+  - first:
+      213: -6531687280361316438
+    second: '!$Elevator Doors Ace_369'
+  - first:
+      213: -321512044908261902
+    second: '!$Elevator Doors Ace_370'
+  - first:
+      213: 285748230387779020
+    second: '!$Elevator Doors Ace_371'
+  - first:
+      213: 211639463839312387
+    second: '!$Elevator Doors Ace_372'
+  - first:
+      213: -8475819424908686746
+    second: '!$Elevator Doors Ace_373'
+  - first:
+      213: -8965670670493794104
+    second: '!$Elevator Doors Ace_374'
+  - first:
+      213: -327814735610889609
+    second: '!$Elevator Doors Ace_375'
+  - first:
+      213: 8102965228055597366
+    second: '!$Elevator Doors Ace_376'
+  - first:
+      213: 1654453172986993230
+    second: '!$Elevator Doors Ace_377'
+  - first:
+      213: 3760606961015706726
+    second: '!$Elevator Doors Ace_378'
+  - first:
+      213: -1977187469124277509
+    second: '!$Elevator Doors Ace_379'
+  - first:
+      213: -4953872347765884868
+    second: '!$Elevator Doors Ace_380'
+  - first:
+      213: -6849329722259068159
+    second: '!$Elevator Doors Ace_381'
+  - first:
+      213: 1915222679598103217
+    second: '!$Elevator Doors Ace_382'
+  - first:
+      213: 1672514444380780139
+    second: '!$Elevator Doors Ace_383'
+  - first:
+      213: -829464401122778479
+    second: '!$Elevator Doors Ace_384'
+  - first:
+      213: 501133637405236813
+    second: '!$Elevator Doors Ace_385'
+  - first:
+      213: 675318490379872361
+    second: '!$Elevator Doors Ace_386'
+  - first:
+      213: 4402740181209727526
+    second: '!$Elevator Doors Ace_387'
+  - first:
+      213: -3251938464525215949
+    second: '!$Elevator Doors Ace_388'
+  - first:
+      213: -1749907204649706699
+    second: '!$Elevator Doors Ace_389'
+  - first:
+      213: 586626743861536084
+    second: '!$Elevator Doors Ace_390'
+  - first:
+      213: 4913232344435278419
+    second: '!$Elevator Doors Ace_391'
+  - first:
+      213: -4293916468683003716
+    second: '!$Elevator Doors Ace_392'
+  - first:
+      213: 6826540111728402704
+    second: '!$Elevator Doors Ace_393'
+  - first:
+      213: 1216217291759062324
+    second: '!$Elevator Doors Ace_394'
+  - first:
+      213: -8122204730978868626
+    second: '!$Elevator Doors Ace_395'
+  - first:
+      213: -1684953219590314749
+    second: '!$Elevator Doors Ace_396'
+  - first:
+      213: 8514065713772114800
+    second: '!$Elevator Doors Ace_397'
+  - first:
+      213: 3410500978355133934
+    second: '!$Elevator Doors Ace_398'
+  - first:
+      213: -219473142180801283
+    second: '!$Elevator Doors Ace_399'
+  - first:
+      213: -7659856954299727972
+    second: '!$Elevator Doors Ace_400'
+  - first:
+      213: -3657744022134982491
+    second: '!$Elevator Doors Ace_401'
+  - first:
+      213: 6460753014349978981
+    second: '!$Elevator Doors Ace_402'
+  - first:
+      213: 152945616259718543
+    second: '!$Elevator Doors Ace_403'
+  - first:
+      213: -2268021697637165540
+    second: '!$Elevator Doors Ace_404'
+  - first:
+      213: -5152180576093405504
+    second: '!$Elevator Doors Ace_405'
+  - first:
+      213: -8201234904587078557
+    second: '!$Elevator Doors Ace_406'
+  - first:
+      213: -4956236692714291271
+    second: '!$Elevator Doors Ace_407'
+  - first:
+      213: -9182366136396855343
+    second: '!$Elevator Doors Ace_408'
+  - first:
+      213: -6968539114190509242
+    second: '!$Elevator Doors Ace_409'
+  - first:
+      213: -8057583246992298241
+    second: '!$Elevator Doors Ace_410'
+  - first:
+      213: 6864602496767969908
+    second: '!$Elevator Doors Ace_411'
+  - first:
+      213: -2458381398003866776
+    second: '!$Elevator Doors Ace_412'
+  - first:
+      213: 1010149558408502627
+    second: '!$Elevator Doors Ace_413'
+  - first:
+      213: -5899188265975907420
+    second: '!$Elevator Doors Ace_414'
+  - first:
+      213: 8522491558416242561
+    second: '!$Elevator Doors Ace_415'
+  - first:
+      213: 931864313317338794
+    second: '!$Elevator Doors Ace_416'
+  - first:
+      213: -4864069697989709176
+    second: '!$Elevator Doors Ace_417'
+  - first:
+      213: -1576570834733714482
+    second: '!$Elevator Doors Ace_418'
+  - first:
+      213: -4488352813966035066
+    second: '!$Elevator Doors Ace_419'
+  - first:
+      213: -6895435665779591114
+    second: '!$Elevator Doors Ace_420'
+  - first:
+      213: -88211858852683891
+    second: '!$Elevator Doors Ace_421'
+  - first:
+      213: 7041038050932932276
+    second: '!$Elevator Doors Ace_422'
+  - first:
+      213: 8823861472222562438
+    second: '!$Elevator Doors Ace_423'
+  - first:
+      213: 4402247266228056556
+    second: '!$Elevator Doors Ace_424'
+  - first:
+      213: -8924385231490742935
+    second: '!$Elevator Doors Ace_425'
+  - first:
+      213: 4242331616370061333
+    second: '!$Elevator Doors Ace_426'
+  - first:
+      213: -2170573158908704270
+    second: '!$Elevator Doors Ace_427'
+  - first:
+      213: -1989860979758864598
+    second: '!$Elevator Doors Ace_428'
+  - first:
+      213: -6825483990391704073
+    second: '!$Elevator Doors Ace_429'
+  - first:
+      213: -176351494025885238
+    second: '!$Elevator Doors Ace_430'
+  - first:
+      213: 7547434983729128012
+    second: '!$Elevator Doors Ace_431'
+  - first:
+      213: -7240335801547784556
+    second: '!$Elevator Doors Ace_432'
+  - first:
+      213: -3289230539080687168
+    second: '!$Elevator Doors Ace_433'
+  - first:
+      213: 4556063449346713361
+    second: '!$Elevator Doors Ace_434'
+  - first:
+      213: -167973556158408557
+    second: '!$Elevator Doors Ace_435'
+  - first:
+      213: -478318829363314626
+    second: '!$Elevator Doors Ace_436'
+  - first:
+      213: 3317859312100864977
+    second: '!$Elevator Doors Ace_437'
+  - first:
+      213: 8640926704228816700
+    second: '!$Elevator Doors Ace_438'
+  - first:
+      213: -2833471196171897829
+    second: '!$Elevator Doors Ace_439'
+  - first:
+      213: -7772361984311275385
+    second: '!$Elevator Doors Ace_440'
+  - first:
+      213: 8281705477331476107
+    second: '!$Elevator Doors Ace_441'
+  - first:
+      213: 8086249362829917190
+    second: '!$Elevator Doors Ace_442'
+  - first:
+      213: 2113908407259473677
+    second: '!$Elevator Doors Ace_443'
+  - first:
+      213: -7232723765520590111
+    second: '!$Elevator Doors Ace_444'
+  - first:
+      213: 6654066869210525689
+    second: '!$Elevator Doors Ace_445'
+  - first:
+      213: -3336530609272107685
+    second: '!$Elevator Doors Ace_446'
+  - first:
+      213: -3456228827148367656
+    second: '!$Elevator Doors Ace_447'
+  - first:
+      213: -8633543741623586102
+    second: '!$Elevator Doors Ace_448'
+  - first:
+      213: 431478153302429303
+    second: '!$Elevator Doors Ace_449'
+  - first:
+      213: 6385395221680475827
+    second: '!$Elevator Doors Ace_450'
+  - first:
+      213: -4038971560994849546
+    second: '!$Elevator Doors Ace_451'
+  - first:
+      213: -2247432319812135326
+    second: '!$Elevator Doors Ace_452'
+  - first:
+      213: 5566984137868330899
+    second: '!$Elevator Doors Ace_453'
+  - first:
+      213: 5259079207059283610
+    second: '!$Elevator Doors Ace_454'
+  - first:
+      213: -1929664815371809625
+    second: '!$Elevator Doors Ace_455'
+  - first:
+      213: -1796893135368854699
+    second: '!$Elevator Doors Ace_456'
+  - first:
+      213: -7606463169022180306
+    second: '!$Elevator Doors Ace_457'
+  - first:
+      213: 4203422873783860652
+    second: '!$Elevator Doors Ace_458'
+  - first:
+      213: 2892706469628848858
+    second: '!$Elevator Doors Ace_459'
+  - first:
+      213: -399350816577081767
+    second: '!$Elevator Doors Ace_460'
+  - first:
+      213: -228518401572876706
+    second: '!$Elevator Doors Ace_461'
+  - first:
+      213: -4939231883761334549
+    second: '!$Elevator Doors Ace_462'
+  - first:
+      213: -401151225785262255
+    second: '!$Elevator Doors Ace_463'
+  - first:
+      213: 1226351344873573458
+    second: '!$Elevator Doors Ace_464'
+  - first:
+      213: 1861309810792772376
+    second: '!$Elevator Doors Ace_465'
+  - first:
+      213: 6330671307390016573
+    second: '!$Elevator Doors Ace_466'
+  - first:
+      213: -7426775506266109905
+    second: '!$Elevator Doors Ace_467'
+  - first:
+      213: 1399488340277919500
+    second: '!$Elevator Doors Ace_468'
+  - first:
+      213: 6462314989320740274
+    second: '!$Elevator Doors Ace_469'
+  - first:
+      213: 5592865788595703047
+    second: '!$Elevator Doors Ace_470'
+  - first:
+      213: -7504925999473834919
+    second: '!$Elevator Doors Ace_471'
+  - first:
+      213: -3567544941422689163
+    second: '!$Elevator Doors Ace_472'
+  - first:
+      213: -3010604656894565581
+    second: '!$Elevator Doors Ace_473'
+  - first:
+      213: -7609060469803714358
+    second: '!$Elevator Doors Ace_474'
+  - first:
+      213: 952317808636382429
+    second: '!$Elevator Doors Ace_475'
+  - first:
+      213: 8290918914044942466
+    second: '!$Elevator Doors Ace_476'
+  - first:
+      213: 850618598805519719
+    second: '!$Elevator Doors Ace_477'
+  - first:
+      213: -2136574612561948529
+    second: '!$Elevator Doors Ace_478'
+  - first:
+      213: 2105634261204491690
+    second: '!$Elevator Doors Ace_479'
+  - first:
+      213: -2420627948332665377
+    second: '!$Elevator Doors Ace_480'
+  - first:
+      213: 3715571626247340846
+    second: '!$Elevator Doors Ace_481'
+  - first:
+      213: 5609098768552857396
+    second: '!$Elevator Doors Ace_482'
+  - first:
+      213: 5815238084565154987
+    second: '!$Elevator Doors Ace_483'
+  - first:
+      213: -8391217411926845096
+    second: '!$Elevator Doors Ace_484'
+  - first:
+      213: -1757488256513965407
+    second: '!$Elevator Doors Ace_485'
+  - first:
+      213: -8839686457819400956
+    second: '!$Elevator Doors Ace_486'
+  - first:
+      213: -4482130777798287225
+    second: '!$Elevator Doors Ace_487'
+  - first:
+      213: -4172174045149536458
+    second: '!$Elevator Doors Ace_488'
+  - first:
+      213: 4193028052931543593
+    second: '!$Elevator Doors Ace_489'
+  - first:
+      213: -3587697601844158044
+    second: '!$Elevator Doors Ace_490'
+  - first:
+      213: -4120115062857189243
+    second: '!$Elevator Doors Ace_491'
+  - first:
+      213: -4968996112892745446
+    second: '!$Elevator Doors Ace_492'
+  - first:
+      213: -395617483198498242
+    second: '!$Elevator Doors Ace_493'
+  - first:
+      213: 7224153631358096315
+    second: '!$Elevator Doors Ace_494'
+  - first:
+      213: 1053199636175668283
+    second: '!$Elevator Doors Ace_495'
+  - first:
+      213: 3972447263050619513
+    second: '!$Elevator Doors Ace_496'
+  - first:
+      213: -5832190733235431370
+    second: '!$Elevator Doors Ace_497'
+  - first:
+      213: 4750786012298419707
+    second: '!$Elevator Doors Ace_498'
+  - first:
+      213: 1718783136268285453
+    second: '!$Elevator Doors Ace_499'
+  - first:
+      213: 5866557891948669669
+    second: '!$Elevator Doors Ace_500'
+  - first:
+      213: -3306491085881109134
+    second: '!$Elevator Doors Ace_501'
+  - first:
+      213: 3219104727567836620
+    second: '!$Elevator Doors Ace_502'
+  - first:
+      213: 3251195915213996066
+    second: '!$Elevator Doors Ace_503'
+  - first:
+      213: -6297815583106213395
+    second: '!$Elevator Doors Ace_504'
+  - first:
+      213: 139899894419024923
+    second: '!$Elevator Doors Ace_505'
+  - first:
+      213: -5947756245148703894
+    second: '!$Elevator Doors Ace_506'
+  - first:
+      213: 3821068303165243614
+    second: '!$Elevator Doors Ace_507'
+  - first:
+      213: -6486111317900044331
+    second: '!$Elevator Doors Ace_508'
+  - first:
+      213: -127447000673726660
+    second: '!$Elevator Doors Ace_509'
+  - first:
+      213: -959350461156382002
+    second: '!$Elevator Doors Ace_510'
+  - first:
+      213: -4316742600944110116
+    second: '!$Elevator Doors Ace_511'
+  - first:
+      213: -6095974272867887800
+    second: '!$Elevator Doors Ace_512'
+  - first:
+      213: 7394965004281879782
+    second: '!$Elevator Doors Ace_513'
+  - first:
+      213: -7734345341243842313
+    second: '!$Elevator Doors Ace_514'
+  - first:
+      213: -1445676076769688259
+    second: '!$Elevator Doors Ace_515'
+  - first:
+      213: 819803564392428027
+    second: '!$Elevator Doors Ace_516'
+  - first:
+      213: 2412533205158339580
+    second: '!$Elevator Doors Ace_517'
+  - first:
+      213: -5326357825361448186
+    second: '!$Elevator Doors Ace_518'
+  - first:
+      213: 1092902302829372176
+    second: '!$Elevator Doors Ace_519'
+  - first:
+      213: 5324171873794963841
+    second: '!$Elevator Doors Ace_520'
+  - first:
+      213: -8159527974005643975
+    second: '!$Elevator Doors Ace_521'
+  - first:
+      213: -3781939401815203129
+    second: '!$Elevator Doors Ace_522'
+  - first:
+      213: 2080707227691328795
+    second: '!$Elevator Doors Ace_523'
+  - first:
+      213: 7503421475400116277
+    second: '!$Elevator Doors Ace_524'
+  - first:
+      213: 3483857929366321411
+    second: '!$Elevator Doors Ace_525'
+  - first:
+      213: -6860193544806645406
+    second: '!$Elevator Doors Ace_526'
+  - first:
+      213: -4653660197128129114
+    second: '!$Elevator Doors Ace_527'
+  - first:
+      213: 8028685123932212849
+    second: '!$Elevator Doors Ace_528'
+  - first:
+      213: 6445004091963832214
+    second: '!$Elevator Doors Ace_529'
+  - first:
+      213: 950396678975469697
+    second: '!$Elevator Doors Ace_530'
+  - first:
+      213: 4554199903925714152
+    second: '!$Elevator Doors Ace_531'
+  - first:
+      213: -675821741698880140
+    second: '!$Elevator Doors Ace_532'
+  - first:
+      213: 969021971387415661
+    second: '!$Elevator Doors Ace_533'
+  - first:
+      213: 25604258594027904
+    second: '!$Elevator Doors Ace_534'
+  - first:
+      213: -5201146429061151926
+    second: '!$Elevator Doors Ace_535'
+  - first:
+      213: -7196475007352187873
+    second: '!$Elevator Doors Ace_536'
+  - first:
+      213: 8309180457679400521
+    second: '!$Elevator Doors Ace_537'
+  - first:
+      213: -2029512860510401714
+    second: '!$Elevator Doors Ace_538'
+  - first:
+      213: -8353942870672360520
+    second: '!$Elevator Doors Ace_539'
+  - first:
+      213: -4266428322709416729
+    second: '!$Elevator Doors Ace_540'
+  - first:
+      213: -3139775322956554984
+    second: '!$Elevator Doors Ace_541'
+  - first:
+      213: 4726812124802569658
+    second: '!$Elevator Doors Ace_542'
+  - first:
+      213: -2022576013904032628
+    second: '!$Elevator Doors Ace_543'
+  - first:
+      213: -8802243460647754322
+    second: '!$Elevator Doors Ace_544'
+  - first:
+      213: 2760589290097308194
+    second: '!$Elevator Doors Ace_545'
+  - first:
+      213: 8796090421259819041
+    second: '!$Elevator Doors Ace_546'
+  - first:
+      213: -4531588472092642662
+    second: '!$Elevator Doors Ace_547'
+  - first:
+      213: -5527159542579542220
+    second: '!$Elevator Doors Ace_548'
+  - first:
+      213: -1395598123258168176
+    second: '!$Elevator Doors Ace_549'
+  - first:
+      213: -9192784990214967632
+    second: '!$Elevator Doors Ace_550'
+  - first:
+      213: 2345828732349713664
+    second: '!$Elevator Doors Ace_551'
+  - first:
+      213: 5295544291664310334
+    second: '!$Elevator Doors Ace_552'
+  - first:
+      213: 6087733424020332037
+    second: '!$Elevator Doors Ace_553'
+  - first:
+      213: 2756637575382391976
+    second: '!$Elevator Doors Ace_554'
+  - first:
+      213: -7977001468490978062
+    second: '!$Elevator Doors Ace_555'
+  - first:
+      213: 7980825572417016477
+    second: '!$Elevator Doors Ace_556'
+  - first:
+      213: 4385259081894692947
+    second: '!$Elevator Doors Ace_557'
+  - first:
+      213: -2413972983066246427
+    second: '!$Elevator Doors Ace_558'
+  - first:
+      213: -7583453569575000308
+    second: '!$Elevator Doors Ace_559'
+  - first:
+      213: 7007456318144608563
+    second: '!$Elevator Doors Ace_560'
+  - first:
+      213: -6572056696648141782
+    second: '!$Elevator Doors Ace_561'
+  - first:
+      213: -6670676087176565553
+    second: '!$Elevator Doors Ace_562'
+  - first:
+      213: -676538249127864868
+    second: '!$Elevator Doors Ace_563'
+  - first:
+      213: -6264215189458507832
+    second: '!$Elevator Doors Ace_564'
+  - first:
+      213: -1647972914725749821
+    second: '!$Elevator Doors Ace_565'
+  - first:
+      213: -6671194680469645338
+    second: '!$Elevator Doors Ace_566'
+  - first:
+      213: -3567132989300568141
+    second: '!$Elevator Doors Ace_567'
+  - first:
+      213: 8495905199877640254
+    second: '!$Elevator Doors Ace_568'
+  - first:
+      213: 4806047524774902712
+    second: '!$Elevator Doors Ace_569'
+  - first:
+      213: 4200603905231646488
+    second: '!$Elevator Doors Ace_570'
+  - first:
+      213: 3910793848610941271
+    second: '!$Elevator Doors Ace_571'
+  - first:
+      213: -1583154100847745129
+    second: '!$Elevator Doors Ace_572'
+  - first:
+      213: 2779549084705447239
+    second: '!$Elevator Doors Ace_573'
+  - first:
+      213: 7853247137860935239
+    second: '!$Elevator Doors Ace_574'
+  - first:
+      213: -1748020843563835510
+    second: '!$Elevator Doors Ace_575'
+  - first:
+      213: 5306705504687330658
+    second: '!$Elevator Doors Ace_576'
+  - first:
+      213: 7067129220045870267
+    second: '!$Elevator Doors Ace_577'
+  - first:
+      213: -1640595134122644514
+    second: '!$Elevator Doors Ace_578'
+  - first:
+      213: -4736608434809137993
+    second: '!$Elevator Doors Ace_579'
+  - first:
+      213: -980883159564479631
+    second: '!$Elevator Doors Ace_580'
+  - first:
+      213: 7870627414748148235
+    second: '!$Elevator Doors Ace_581'
+  - first:
+      213: 4129728767889708821
+    second: '!$Elevator Doors Ace_582'
+  - first:
+      213: 8615632905192372500
+    second: '!$Elevator Doors Ace_583'
+  - first:
+      213: -5242554332997808924
+    second: '!$Elevator Doors Ace_584'
+  - first:
+      213: -3897867148441298581
+    second: '!$Elevator Doors Ace_585'
+  - first:
+      213: -6348117066785925287
+    second: '!$Elevator Doors Ace_586'
+  - first:
+      213: 6753754339358288000
+    second: '!$Elevator Doors Ace_587'
+  - first:
+      213: 995005446093769036
+    second: '!$Elevator Doors Ace_588'
+  - first:
+      213: -5950863286675810328
+    second: '!$Elevator Doors Ace_589'
+  - first:
+      213: 6310270143050638211
+    second: '!$Elevator Doors Ace_590'
+  - first:
+      213: 5862439663718667640
+    second: '!$Elevator Doors Ace_591'
+  - first:
+      213: -361296735796684045
+    second: '!$Elevator Doors Ace_592'
+  - first:
+      213: -6031031561816214739
+    second: '!$Elevator Doors Ace_593'
+  - first:
+      213: 720720453310166540
+    second: '!$Elevator Doors Ace_594'
+  - first:
+      213: 8964147267507187578
+    second: '!$Elevator Doors Ace_595'
+  - first:
+      213: -9073873181817210727
+    second: '!$Elevator Doors Ace_596'
+  - first:
+      213: -7444160126710578872
+    second: '!$Elevator Doors Ace_597'
+  - first:
+      213: 8804899533910906308
+    second: '!$Elevator Doors Ace_598'
+  - first:
+      213: -5483341721762779847
+    second: '!$Elevator Doors Ace_599'
+  - first:
+      213: -8456427972882577998
+    second: '!$Elevator Doors Ace_600'
+  - first:
+      213: 7366816150527818820
+    second: '!$Elevator Doors Ace_601'
+  - first:
+      213: -8721530078455593526
+    second: '!$Elevator Doors Ace_602'
+  - first:
+      213: 6383906049124930884
+    second: '!$Elevator Doors Ace_603'
+  - first:
+      213: -3031376377458025043
+    second: '!$Elevator Doors Ace_604'
+  - first:
+      213: -3193101288963347363
+    second: '!$Elevator Doors Ace_605'
+  - first:
+      213: -2987926906412903206
+    second: '!$Elevator Doors Ace_606'
+  - first:
+      213: 3151178008840091194
+    second: '!$Elevator Doors Ace_607'
+  - first:
+      213: -413507680871331383
+    second: '!$Elevator Doors Ace_608'
+  - first:
+      213: -5810668272821962578
+    second: '!$Elevator Doors Ace_609'
+  - first:
+      213: -9138865426093378644
+    second: '!$Elevator Doors Ace_610'
+  - first:
+      213: 4252742068735468290
+    second: '!$Elevator Doors Ace_611'
+  - first:
+      213: 7143545989174980279
+    second: '!$Elevator Doors Ace_612'
+  - first:
+      213: -5164721974786833522
+    second: '!$Elevator Doors Ace_613'
+  - first:
+      213: 5067906153178986132
+    second: '!$Elevator Doors Ace_614'
+  - first:
+      213: -2059339578637857118
+    second: '!$Elevator Doors Ace_615'
+  - first:
+      213: 6634318986678212323
+    second: '!$Elevator Doors Ace_616'
+  - first:
+      213: 5013042226089219205
+    second: '!$Elevator Doors Ace_617'
+  - first:
+      213: -6536004714240823441
+    second: '!$Elevator Doors Ace_618'
+  - first:
+      213: -2766770115222608537
+    second: '!$Elevator Doors Ace_619'
+  - first:
+      213: -8415599981588966659
+    second: '!$Elevator Doors Ace_620'
+  - first:
+      213: -5457474144522135056
+    second: '!$Elevator Doors Ace_621'
+  - first:
+      213: 554101569464491013
+    second: '!$Elevator Doors Ace_622'
+  - first:
+      213: 6130428801082088069
+    second: '!$Elevator Doors Ace_623'
+  - first:
+      213: -4897503511732901321
+    second: '!$Elevator Doors Ace_624'
+  - first:
+      213: -5593921418610989289
+    second: '!$Elevator Doors Ace_625'
+  - first:
+      213: 6203028565680591372
+    second: '!$Elevator Doors Ace_626'
+  - first:
+      213: -1220317289280842195
+    second: '!$Elevator Doors Ace_627'
+  - first:
+      213: -5132068849729702326
+    second: '!$Elevator Doors Ace_628'
+  - first:
+      213: -4092989173390269197
+    second: '!$Elevator Doors Ace_629'
+  - first:
+      213: 110923367940181448
+    second: '!$Elevator Doors Ace_630'
+  - first:
+      213: 8172198087812600524
+    second: '!$Elevator Doors Ace_631'
+  - first:
+      213: -6548434296653999136
+    second: '!$Elevator Doors Ace_632'
+  - first:
+      213: -6098044881641824364
+    second: '!$Elevator Doors Ace_633'
+  - first:
+      213: 2366678593408178602
+    second: '!$Elevator Doors Ace_634'
+  - first:
+      213: -5297020475354938044
+    second: '!$Elevator Doors Ace_635'
+  - first:
+      213: -6102753231386381023
+    second: '!$Elevator Doors Ace_636'
+  - first:
+      213: -7686380261871465443
+    second: '!$Elevator Doors Ace_637'
+  - first:
+      213: 4553565253891561379
+    second: '!$Elevator Doors Ace_638'
+  - first:
+      213: -144591525464424250
+    second: '!$Elevator Doors Ace_639'
+  - first:
+      213: 4216423026503033720
+    second: '!$Elevator Doors Ace_640'
+  - first:
+      213: 4788257514295100434
+    second: '!$Elevator Doors Ace_641'
+  - first:
+      213: -7171032614543302986
+    second: '!$Elevator Doors Ace_642'
+  - first:
+      213: 413760483577491941
+    second: '!$Elevator Doors Ace_643'
+  - first:
+      213: 4991562666524686660
+    second: '!$Elevator Doors Ace_644'
+  - first:
+      213: 367271391972139291
+    second: '!$Elevator Doors Ace_645'
+  - first:
+      213: -8394308738482140936
+    second: '!$Elevator Doors Ace_646'
+  - first:
+      213: -849684923294005024
+    second: '!$Elevator Doors Ace_647'
+  - first:
+      213: 273479166646747946
+    second: '!$Elevator Doors Ace_648'
+  - first:
+      213: -576514510428936315
+    second: '!$Elevator Doors Ace_649'
+  - first:
+      213: -1031774306919722756
+    second: '!$Elevator Doors Ace_650'
+  - first:
+      213: -5299771238876035201
+    second: '!$Elevator Doors Ace_651'
+  - first:
+      213: -9207081882679076745
+    second: '!$Elevator Doors Ace_652'
+  - first:
+      213: 2035471743919305763
+    second: '!$Elevator Doors Ace_653'
+  - first:
+      213: 6622899022763839619
+    second: '!$Elevator Doors Ace_654'
+  - first:
+      213: -6522949847621067345
+    second: '!$Elevator Doors Ace_655'
+  - first:
+      213: -7822613039345912836
+    second: '!$Elevator Doors Ace_656'
+  - first:
+      213: -4863423693164673233
+    second: '!$Elevator Doors Ace_657'
+  - first:
+      213: -4561550279933183
+    second: '!$Elevator Doors Ace_658'
+  - first:
+      213: -2385245870684738749
+    second: '!$Elevator Doors Ace_659'
+  - first:
+      213: 9007299073758818744
+    second: '!$Elevator Doors Ace_660'
+  - first:
+      213: -7461043821418131387
+    second: '!$Elevator Doors Ace_661'
+  - first:
+      213: -1973485891817823259
+    second: '!$Elevator Doors Ace_662'
+  - first:
+      213: -1431970026612187978
+    second: '!$Elevator Doors Ace_663'
+  - first:
+      213: -2383812755472184316
+    second: '!$Elevator Doors Ace_664'
+  - first:
+      213: -3377413166853464679
+    second: '!$Elevator Doors Ace_665'
+  - first:
+      213: -4767263541777066809
+    second: '!$Elevator Doors Ace_666'
+  - first:
+      213: -2063630447277786586
+    second: '!$Elevator Doors Ace_667'
+  - first:
+      213: 2002161782723424093
+    second: '!$Elevator Doors Ace_668'
+  - first:
+      213: -8206045243983357355
+    second: '!$Elevator Doors Ace_669'
+  - first:
+      213: 2030372377670056526
+    second: '!$Elevator Doors Ace_670'
+  - first:
+      213: -650833380271576225
+    second: '!$Elevator Doors Ace_671'
+  - first:
+      213: 4188938466827245134
+    second: '!$Elevator Doors Ace_672'
+  - first:
+      213: -245093565059911993
+    second: '!$Elevator Doors Ace_673'
+  - first:
+      213: 7015928080250604790
+    second: '!$Elevator Doors Ace_674'
+  - first:
+      213: -8453709008764253742
+    second: '!$Elevator Doors Ace_675'
+  - first:
+      213: 8985466361511232985
+    second: '!$Elevator Doors Ace_676'
+  - first:
+      213: 4424916976712867501
+    second: '!$Elevator Doors Ace_677'
+  - first:
+      213: -4705315553597035451
+    second: '!$Elevator Doors Ace_678'
+  - first:
+      213: -698472067880207461
+    second: '!$Elevator Doors Ace_679'
+  - first:
+      213: -714912093136025613
+    second: '!$Elevator Doors Ace_680'
+  - first:
+      213: 2955989320243934137
+    second: '!$Elevator Doors Ace_681'
+  - first:
+      213: -6213393831963756642
+    second: '!$Elevator Doors Ace_682'
+  - first:
+      213: -444475719679555831
+    second: '!$Elevator Doors Ace_683'
+  - first:
+      213: -7174409695715979397
+    second: '!$Elevator Doors Ace_684'
+  - first:
+      213: -2137618655956062271
+    second: '!$Elevator Doors Ace_685'
+  - first:
+      213: 5366595852995627829
+    second: '!$Elevator Doors Ace_686'
+  - first:
+      213: 8880084902569935351
+    second: '!$Elevator Doors Ace_687'
+  - first:
+      213: 4719569003397670781
+    second: '!$Elevator Doors Ace_688'
+  - first:
+      213: 6481554825535843086
+    second: '!$Elevator Doors Ace_689'
+  - first:
+      213: 2618810672066263711
+    second: '!$Elevator Doors Ace_690'
+  - first:
+      213: -2139420400973612815
+    second: '!$Elevator Doors Ace_691'
+  - first:
+      213: -8390210935531515986
+    second: '!$Elevator Doors Ace_692'
+  - first:
+      213: -1312675674549356429
+    second: '!$Elevator Doors Ace_693'
+  - first:
+      213: 1205312846003605372
+    second: '!$Elevator Doors Ace_694'
+  - first:
+      213: -7917367278878026379
+    second: '!$Elevator Doors Ace_695'
+  - first:
+      213: 1589361797944780760
+    second: '!$Elevator Doors Ace_696'
+  - first:
+      213: -3397869641918997715
+    second: '!$Elevator Doors Ace_697'
+  - first:
+      213: -8206085364594700035
+    second: '!$Elevator Doors Ace_698'
+  - first:
+      213: 6778328596421775527
+    second: '!$Elevator Doors Ace_699'
+  - first:
+      213: -1281393729755300268
+    second: '!$Elevator Doors Ace_700'
+  - first:
+      213: 3094394514361243220
+    second: '!$Elevator Doors Ace_701'
+  - first:
+      213: 655487469227027538
+    second: '!$Elevator Doors Ace_702'
+  - first:
+      213: -5279832842525154986
+    second: '!$Elevator Doors Ace_703'
+  - first:
+      213: -6892527157370086612
+    second: '!$Elevator Doors Ace_704'
+  - first:
+      213: 7780924836016163899
+    second: '!$Elevator Doors Ace_705'
+  - first:
+      213: 994845124260999619
+    second: '!$Elevator Doors Ace_706'
+  - first:
+      213: -6872988924228382375
+    second: '!$Elevator Doors Ace_707'
+  - first:
+      213: -4999105254067271894
+    second: '!$Elevator Doors Ace_708'
+  - first:
+      213: 6876353932478620068
+    second: '!$Elevator Doors Ace_709'
+  - first:
+      213: 1226523838926147445
+    second: '!$Elevator Doors Ace_710'
+  - first:
+      213: 641943340466783519
+    second: '!$Elevator Doors Ace_711'
+  - first:
+      213: 7139925145192332460
+    second: '!$Elevator Doors Ace_712'
+  - first:
+      213: 2880403971678885880
+    second: '!$Elevator Doors Ace_713'
+  - first:
+      213: -2129066876616619140
+    second: '!$Elevator Doors Ace_714'
+  - first:
+      213: 8428120108158594326
+    second: '!$Elevator Doors Ace_715'
+  - first:
+      213: 4958744081102499887
+    second: '!$Elevator Doors Ace_716'
+  - first:
+      213: 579246803257337906
+    second: '!$Elevator Doors Ace_717'
+  - first:
+      213: 2722923707096434825
+    second: '!$Elevator Doors Ace_718'
+  - first:
+      213: 4522222809892436189
+    second: '!$Elevator Doors Ace_719'
+  - first:
+      213: 1765690580928632890
+    second: '!$Elevator Doors Ace_720'
+  - first:
+      213: -290646271723271054
+    second: '!$Elevator Doors Ace_721'
+  - first:
+      213: -2343984818475862704
+    second: '!$Elevator Doors Ace_722'
+  - first:
+      213: -4409510827288503367
+    second: '!$Elevator Doors Ace_723'
+  - first:
+      213: 110806000210931063
+    second: '!$Elevator Doors Ace_724'
+  - first:
+      213: 8255191403386283647
+    second: '!$Elevator Doors Ace_725'
+  - first:
+      213: -7403521765856964967
+    second: '!$Elevator Doors Ace_726'
+  - first:
+      213: -1965547605079394891
+    second: '!$Elevator Doors Ace_727'
+  - first:
+      213: -1575581179532185601
+    second: '!$Elevator Doors Ace_728'
+  - first:
+      213: 2201494219719354885
+    second: '!$Elevator Doors Ace_729'
+  - first:
+      213: -7318080625929621948
+    second: '!$Elevator Doors Ace_730'
+  - first:
+      213: -6122313955736026832
+    second: '!$Elevator Doors Ace_731'
+  - first:
+      213: -171453968392223080
+    second: '!$Elevator Doors Ace_732'
+  - first:
+      213: 8932791234293680278
+    second: '!$Elevator Doors Ace_733'
+  - first:
+      213: 5943624946712379842
+    second: '!$Elevator Doors Ace_734'
+  - first:
+      213: -1179558553896371349
+    second: '!$Elevator Doors Ace_735'
+  - first:
+      213: -7158244418535629641
+    second: '!$Elevator Doors Ace_736'
+  - first:
+      213: 8104607545422688902
+    second: '!$Elevator Doors Ace_737'
+  - first:
+      213: 1782969520925039698
+    second: '!$Elevator Doors Ace_738'
+  - first:
+      213: 7346926417432616485
+    second: '!$Elevator Doors Ace_739'
+  - first:
+      213: -2173409216863641799
+    second: '!$Elevator Doors Ace_740'
+  - first:
+      213: -9173376250972388360
+    second: '!$Elevator Doors Ace_741'
+  - first:
+      213: 6342419640529487305
+    second: '!$Elevator Doors Ace_742'
+  - first:
+      213: 3114570344210856873
+    second: '!$Elevator Doors Ace_743'
+  - first:
+      213: 1726077307852135937
+    second: '!$Elevator Doors Ace_744'
+  - first:
+      213: -1635383705668915355
+    second: '!$Elevator Doors Ace_745'
+  - first:
+      213: 5036920859758342830
+    second: '!$Elevator Doors Ace_746'
+  - first:
+      213: 7721962958310058269
+    second: '!$Elevator Doors Ace_747'
+  - first:
+      213: 3762582662697477537
+    second: '!$Elevator Doors Ace_748'
+  - first:
+      213: -4948875189459611281
+    second: '!$Elevator Doors Ace_749'
+  - first:
+      213: -9075332974403280313
+    second: '!$Elevator Doors Ace_750'
+  - first:
+      213: -5144097628339687435
+    second: '!$Elevator Doors Ace_751'
+  - first:
+      213: 797976223935070094
+    second: '!$Elevator Doors Ace_752'
+  - first:
+      213: -1553688787113471553
+    second: '!$Elevator Doors Ace_753'
+  - first:
+      213: -7484693112980063368
+    second: '!$Elevator Doors Ace_754'
+  - first:
+      213: -812244567975710525
+    second: '!$Elevator Doors Ace_755'
+  - first:
+      213: 254440032010667377
+    second: '!$Elevator Doors Ace_756'
+  - first:
+      213: 8776470298450865882
+    second: '!$Elevator Doors Ace_757'
+  - first:
+      213: 4336501652265034514
+    second: '!$Elevator Doors Ace_758'
+  - first:
+      213: 5967255967133056567
+    second: '!$Elevator Doors Ace_759'
+  - first:
+      213: -2167503216245043641
+    second: '!$Elevator Doors Ace_760'
+  - first:
+      213: -8875978713558544665
+    second: '!$Elevator Doors Ace_761'
+  - first:
+      213: 578624310379383283
+    second: '!$Elevator Doors Ace_762'
+  - first:
+      213: 7498986997363864411
+    second: '!$Elevator Doors Ace_763'
+  - first:
+      213: -5745373626193058617
+    second: '!$Elevator Doors Ace_764'
+  - first:
+      213: 7894147075609125394
+    second: '!$Elevator Doors Ace_765'
+  - first:
+      213: 3272199137215252322
+    second: '!$Elevator Doors Ace_766'
+  - first:
+      213: 8671320654971449828
+    second: '!$Elevator Doors Ace_767'
+  - first:
+      213: 3285549803951378139
+    second: '!$Elevator Doors Ace_768'
+  - first:
+      213: -4800847715708649192
+    second: '!$Elevator Doors Ace_769'
+  - first:
+      213: 2621360411956652445
+    second: '!$Elevator Doors Ace_770'
+  - first:
+      213: 4429236105258632068
+    second: '!$Elevator Doors Ace_771'
+  - first:
+      213: -623622156054209234
+    second: '!$Elevator Doors Ace_772'
+  - first:
+      213: 3905255069324837010
+    second: '!$Elevator Doors Ace_773'
+  - first:
+      213: 5208695395593857020
+    second: '!$Elevator Doors Ace_774'
+  - first:
+      213: 1229847027991842500
+    second: '!$Elevator Doors Ace_775'
+  - first:
+      213: 2594614414767203820
+    second: '!$Elevator Doors Ace_776'
+  - first:
+      213: 225303456633903994
+    second: '!$Elevator Doors Ace_777'
+  - first:
+      213: 7394180442182089451
+    second: '!$Elevator Doors Ace_778'
+  - first:
+      213: 4696210393738692623
+    second: '!$Elevator Doors Ace_779'
+  - first:
+      213: 554986770289728892
+    second: '!$Elevator Doors Ace_780'
+  - first:
+      213: 5960232725107470008
+    second: '!$Elevator Doors Ace_781'
+  - first:
+      213: 562423018943779575
+    second: '!$Elevator Doors Ace_782'
+  - first:
+      213: -3642219996324814274
+    second: '!$Elevator Doors Ace_783'
+  - first:
+      213: 3455500339774288958
+    second: '!$Elevator Doors Ace_784'
+  - first:
+      213: 1263396089738653092
+    second: '!$Elevator Doors Ace_785'
+  - first:
+      213: 7590844135848802364
+    second: '!$Elevator Doors Ace_786'
+  - first:
+      213: 8935468664141162548
+    second: '!$Elevator Doors Ace_787'
+  - first:
+      213: 6834134053995247513
+    second: '!$Elevator Doors Ace_788'
+  - first:
+      213: 1213677705014683707
+    second: '!$Elevator Doors Ace_789'
+  - first:
+      213: -1353891018979546907
+    second: '!$Elevator Doors Ace_790'
+  - first:
+      213: 2548327080453868145
+    second: '!$Elevator Doors Ace_791'
+  - first:
+      213: -1287656652573311774
+    second: '!$Elevator Doors Ace_792'
+  - first:
+      213: -1191220201885854456
+    second: '!$Elevator Doors Ace_793'
+  - first:
+      213: 4310103245018944032
+    second: '!$Elevator Doors Ace_794'
+  - first:
+      213: -5701753309391747626
+    second: '!$Elevator Doors Ace_795'
+  - first:
+      213: 1444614493089143897
+    second: '!$Elevator Doors Ace_796'
+  - first:
+      213: 6468272920910778542
+    second: '!$Elevator Doors Ace_797'
+  - first:
+      213: -8693050813321148768
+    second: '!$Elevator Doors Ace_798'
+  - first:
+      213: 9049914039141271053
+    second: '!$Elevator Doors Ace_799'
+  - first:
+      213: -5051673712357718421
+    second: '!$Elevator Doors Ace_800'
+  - first:
+      213: 1907124827849758586
+    second: '!$Elevator Doors Ace_801'
+  - first:
+      213: -8589078318119947645
+    second: '!$Elevator Doors Ace_802'
+  - first:
+      213: 2749434843164422854
+    second: '!$Elevator Doors Ace_803'
+  - first:
+      213: 3426132595596231749
+    second: '!$Elevator Doors Ace_804'
+  - first:
+      213: 3941804124841745055
+    second: '!$Elevator Doors Ace_805'
+  - first:
+      213: 1199305005979038352
+    second: '!$Elevator Doors Ace_806'
+  - first:
+      213: 8579810775179803105
+    second: '!$Elevator Doors Ace_807'
+  - first:
+      213: -7250588729798383042
+    second: '!$Elevator Doors Ace_808'
+  - first:
+      213: 7884326075496558502
+    second: '!$Elevator Doors Ace_809'
+  - first:
+      213: -8174710472615323031
+    second: '!$Elevator Doors Ace_810'
+  - first:
+      213: 727649362992595213
+    second: '!$Elevator Doors Ace_811'
+  - first:
+      213: 680395493532011567
+    second: '!$Elevator Doors Ace_812'
+  - first:
+      213: 2955428811053250927
+    second: '!$Elevator Doors Ace_813'
+  - first:
+      213: -3795420889908363783
+    second: '!$Elevator Doors Ace_814'
+  - first:
+      213: -2587942506473532994
+    second: '!$Elevator Doors Ace_815'
+  - first:
+      213: -1564867652680437781
+    second: '!$Elevator Doors Ace_816'
+  - first:
+      213: 4269214127295563984
+    second: '!$Elevator Doors Ace_817'
+  - first:
+      213: -8696059164667328437
+    second: '!$Elevator Doors Ace_818'
+  - first:
+      213: -6670339175386826749
+    second: '!$Elevator Doors Ace_819'
+  - first:
+      213: 2652157164408692787
+    second: '!$Elevator Doors Ace_820'
+  - first:
+      213: -5517219748098702632
+    second: '!$Elevator Doors Ace_821'
+  - first:
+      213: -6566363070617856382
+    second: '!$Elevator Doors Ace_822'
+  - first:
+      213: 6899306227786392380
+    second: '!$Elevator Doors Ace_823'
+  - first:
+      213: 2023743881911969128
+    second: '!$Elevator Doors Ace_824'
+  - first:
+      213: -449679650995234204
+    second: '!$Elevator Doors Ace_825'
+  - first:
+      213: -6798008333956011434
+    second: '!$Elevator Doors Ace_826'
+  - first:
+      213: 9009722883691345551
+    second: '!$Elevator Doors Ace_827'
+  - first:
+      213: -979629218652410451
+    second: '!$Elevator Doors Ace_828'
+  - first:
+      213: -2050575512708313722
+    second: '!$Elevator Doors Ace_829'
+  - first:
+      213: -2566780352904050040
+    second: '!$Elevator Doors Ace_830'
+  - first:
+      213: 266905391741655100
+    second: '!$Elevator Doors Ace_831'
+  - first:
+      213: -7854360075761863117
+    second: '!$Elevator Doors Ace_832'
+  - first:
+      213: 7831628363840489023
+    second: '!$Elevator Doors Ace_833'
+  - first:
+      213: -686547934740231755
+    second: '!$Elevator Doors Ace_834'
+  - first:
+      213: -8360890360350930801
+    second: '!$Elevator Doors Ace_835'
+  - first:
+      213: 659957178153203829
+    second: '!$Elevator Doors Ace_836'
+  - first:
+      213: 6537034121506058811
+    second: '!$Elevator Doors Ace_837'
+  - first:
+      213: -1472181615579840708
+    second: '!$Elevator Doors Ace_838'
+  - first:
+      213: -4384879511088904843
+    second: '!$Elevator Doors Ace_839'
+  - first:
+      213: 5218954366425312800
+    second: '!$Elevator Doors Ace_840'
+  - first:
+      213: -2089064030199010296
+    second: '!$Elevator Doors Ace_841'
+  - first:
+      213: 4430613945640984045
+    second: '!$Elevator Doors Ace_842'
+  - first:
+      213: 7983691179093689517
+    second: '!$Elevator Doors Ace_843'
+  - first:
+      213: -1619258057627812545
+    second: '!$Elevator Doors Ace_844'
+  - first:
+      213: -6647908846612217084
+    second: '!$Elevator Doors Ace_845'
+  - first:
+      213: 8435531414683375373
+    second: '!$Elevator Doors Ace_846'
+  - first:
+      213: 6895737815639364723
+    second: '!$Elevator Doors Ace_847'
+  - first:
+      213: 3672403123824387823
+    second: '!$Elevator Doors Ace_848'
+  - first:
+      213: -2533944121813599250
+    second: '!$Elevator Doors Ace_849'
+  - first:
+      213: -3261189995022606428
+    second: '!$Elevator Doors Ace_850'
+  - first:
+      213: 1987453532421432648
+    second: '!$Elevator Doors Ace_851'
+  - first:
+      213: -8535973310408344797
+    second: '!$Elevator Doors Ace_852'
+  - first:
+      213: 1640547726782939408
+    second: '!$Elevator Doors Ace_853'
+  - first:
+      213: 2503480005543808047
+    second: '!$Elevator Doors Ace_854'
+  - first:
+      213: -8680282648672546007
+    second: '!$Elevator Doors Ace_855'
+  - first:
+      213: 1550344163652012744
+    second: '!$Elevator Doors Ace_856'
+  - first:
+      213: 243611985593807466
+    second: '!$Elevator Doors Ace_857'
+  - first:
+      213: -4489051835649258201
+    second: '!$Elevator Doors Ace_858'
+  - first:
+      213: 3973118281925196039
+    second: '!$Elevator Doors Ace_859'
+  - first:
+      213: -6377044859067937712
+    second: '!$Elevator Doors Ace_860'
+  - first:
+      213: -9116943024965230146
+    second: '!$Elevator Doors Ace_861'
+  - first:
+      213: -4848422974942103293
+    second: '!$Elevator Doors Ace_862'
+  - first:
+      213: -8019385948586639663
+    second: '!$Elevator Doors Ace_863'
+  - first:
+      213: 1309362747981227070
+    second: '!$Elevator Doors Ace_864'
+  - first:
+      213: -6663175174872033138
+    second: '!$Elevator Doors Ace_865'
+  - first:
+      213: 2722182798505880918
+    second: '!$Elevator Doors Ace_866'
+  - first:
+      213: -6687388770183964185
+    second: '!$Elevator Doors Ace_867'
+  - first:
+      213: 1579994167258769706
+    second: '!$Elevator Doors Ace_868'
+  - first:
+      213: 6509852857855574511
+    second: '!$Elevator Doors Ace_869'
+  - first:
+      213: -6395127359268877385
+    second: '!$Elevator Doors Ace_870'
+  - first:
+      213: 6363538440799352187
+    second: '!$Elevator Doors Ace_871'
+  - first:
+      213: 8482347716236658972
+    second: '!$Elevator Doors Ace_872'
+  - first:
+      213: 4086118112351454481
+    second: '!$Elevator Doors Ace_873'
+  - first:
+      213: -4404262880824627052
+    second: '!$Elevator Doors Ace_874'
+  - first:
+      213: 2811001597953574694
+    second: '!$Elevator Doors Ace_875'
+  - first:
+      213: 4252788689670535728
+    second: '!$Elevator Doors Ace_876'
+  - first:
+      213: -3556757518203312191
+    second: '!$Elevator Doors Ace_877'
+  - first:
+      213: -939921768102478620
+    second: '!$Elevator Doors Ace_878'
+  - first:
+      213: 7578818479628591421
+    second: '!$Elevator Doors Ace_879'
+  - first:
+      213: -2894969190126697874
+    second: '!$Elevator Doors Ace_880'
+  - first:
+      213: -6078311134540734707
+    second: '!$Elevator Doors Ace_881'
+  - first:
+      213: 7477103407890383588
+    second: '!$Elevator Doors Ace_882'
+  - first:
+      213: -6344094455581257331
+    second: '!$Elevator Doors Ace_883'
+  - first:
+      213: -1697555575512219212
+    second: '!$Elevator Doors Ace_884'
+  - first:
+      213: 5122731002160127924
+    second: '!$Elevator Doors Ace_885'
+  - first:
+      213: 463319068743750365
+    second: '!$Elevator Doors Ace_886'
+  - first:
+      213: -8231501035892383827
+    second: '!$Elevator Doors Ace_887'
+  - first:
+      213: -8129458496651173186
+    second: '!$Elevator Doors Ace_888'
+  - first:
+      213: -3254550643121468800
+    second: '!$Elevator Doors Ace_889'
+  - first:
+      213: -3995299466127200171
+    second: '!$Elevator Doors Ace_890'
+  - first:
+      213: -7555352166751484265
+    second: '!$Elevator Doors Ace_891'
+  - first:
+      213: -5159865449770890494
+    second: '!$Elevator Doors Ace_892'
+  - first:
+      213: -6635942177974485793
+    second: '!$Elevator Doors Ace_893'
+  - first:
+      213: -5598139078775117901
+    second: '!$Elevator Doors Ace_894'
+  - first:
+      213: 4911100963177268096
+    second: '!$Elevator Doors Ace_895'
+  - first:
+      213: 3884263489781230439
+    second: '!$Elevator Doors Ace_896'
+  - first:
+      213: -4575383779333334296
+    second: '!$Elevator Doors Ace_897'
+  - first:
+      213: 4812235688570202738
+    second: '!$Elevator Doors Ace_898'
+  - first:
+      213: 5461471385505596826
+    second: '!$Elevator Doors Ace_899'
+  - first:
+      213: -8624925781702756252
+    second: '!$Elevator Doors Ace_900'
+  - first:
+      213: 4826445094979094344
+    second: '!$Elevator Doors Ace_901'
+  - first:
+      213: 5484666747166476962
+    second: '!$Elevator Doors Ace_902'
+  - first:
+      213: 866094267336636465
+    second: '!$Elevator Doors Ace_903'
+  - first:
+      213: -6292730109497661922
+    second: '!$Elevator Doors Ace_904'
+  - first:
+      213: -857198355842605939
+    second: '!$Elevator Doors Ace_905'
+  - first:
+      213: -7258325589154674504
+    second: '!$Elevator Doors Ace_906'
+  - first:
+      213: -8492010742934642001
+    second: '!$Elevator Doors Ace_907'
+  - first:
+      213: 5347531008651114041
+    second: '!$Elevator Doors Ace_908'
+  - first:
+      213: 6799130004449162325
+    second: '!$Elevator Doors Ace_909'
+  - first:
+      213: 6518989972537509271
+    second: '!$Elevator Doors Ace_910'
+  - first:
+      213: -3435190802097065441
+    second: '!$Elevator Doors Ace_911'
+  - first:
+      213: 2617098277260081751
+    second: '!$Elevator Doors Ace_912'
+  - first:
+      213: 7481328204757905432
+    second: '!$Elevator Doors Ace_913'
+  - first:
+      213: -7102676779873738477
+    second: '!$Elevator Doors Ace_914'
+  - first:
+      213: -5832813685763781246
+    second: '!$Elevator Doors Ace_915'
+  - first:
+      213: -5949086411321340764
+    second: '!$Elevator Doors Ace_916'
+  - first:
+      213: 6285872469447573373
+    second: '!$Elevator Doors Ace_917'
+  - first:
+      213: -746070273955967445
+    second: '!$Elevator Doors Ace_918'
+  - first:
+      213: -2875200384935267364
+    second: '!$Elevator Doors Ace_919'
+  - first:
+      213: 8190849951297836946
+    second: '!$Elevator Doors Ace_920'
+  - first:
+      213: 4630394156404752195
+    second: '!$Elevator Doors Ace_921'
+  - first:
+      213: -1355195696833946774
+    second: '!$Elevator Doors Ace_922'
+  - first:
+      213: 2437156861550937110
+    second: '!$Elevator Doors Ace_923'
+  - first:
+      213: 7952144946378441645
+    second: '!$Elevator Doors Ace_924'
+  - first:
+      213: 6300164721998921468
+    second: '!$Elevator Doors Ace_925'
+  - first:
+      213: -8573851368042187741
+    second: '!$Elevator Doors Ace_926'
+  - first:
+      213: 3991345707926873938
+    second: '!$Elevator Doors Ace_927'
+  - first:
+      213: -6223127050712085704
+    second: '!$Elevator Doors Ace_928'
+  - first:
+      213: -4071918629583668466
+    second: '!$Elevator Doors Ace_929'
+  - first:
+      213: -3753070927307243567
+    second: '!$Elevator Doors Ace_930'
+  - first:
+      213: -8563758510770023669
+    second: '!$Elevator Doors Ace_931'
+  - first:
+      213: 5527754182278977073
+    second: '!$Elevator Doors Ace_932'
+  - first:
+      213: -2168876410828172627
+    second: '!$Elevator Doors Ace_933'
+  - first:
+      213: -6399161141845695224
+    second: '!$Elevator Doors Ace_934'
+  - first:
+      213: 5888188630448719151
+    second: '!$Elevator Doors Ace_935'
+  - first:
+      213: 7852600225245925378
+    second: '!$Elevator Doors Ace_936'
+  - first:
+      213: 4541296571215160063
+    second: '!$Elevator Doors Ace_937'
+  - first:
+      213: -2296997743166168965
+    second: '!$Elevator Doors Ace_938'
+  - first:
+      213: 5498541517104602869
+    second: '!$Elevator Doors Ace_939'
+  - first:
+      213: -7568840966754505928
+    second: '!$Elevator Doors Ace_940'
+  - first:
+      213: -6211199275564233952
+    second: '!$Elevator Doors Ace_941'
+  - first:
+      213: -4524274004700569363
+    second: '!$Elevator Doors Ace_942'
+  - first:
+      213: -5433710852461707426
+    second: '!$Elevator Doors Ace_943'
+  - first:
+      213: -8819488419535361435
+    second: '!$Elevator Doors Ace_944'
+  - first:
+      213: 2791717483391386413
+    second: '!$Elevator Doors Ace_945'
+  - first:
+      213: 2559742589165333895
+    second: '!$Elevator Doors Ace_946'
+  - first:
+      213: 4323799962383052612
+    second: '!$Elevator Doors Ace_947'
+  - first:
+      213: -7658673009422649754
+    second: '!$Elevator Doors Ace_948'
+  - first:
+      213: -4583558895952774116
+    second: '!$Elevator Doors Ace_949'
+  - first:
+      213: -6870890328094599661
+    second: '!$Elevator Doors Ace_950'
+  - first:
+      213: -5698835403362670755
+    second: '!$Elevator Doors Ace_951'
+  - first:
+      213: -3622023469872352197
+    second: '!$Elevator Doors Ace_952'
+  - first:
+      213: 1470314212146382805
+    second: '!$Elevator Doors Ace_953'
+  - first:
+      213: -797873861851222173
+    second: '!$Elevator Doors Ace_954'
+  - first:
+      213: 3689954562391546731
+    second: '!$Elevator Doors Ace_955'
+  - first:
+      213: -3127256661631624974
+    second: '!$Elevator Doors Ace_956'
+  - first:
+      213: 6596991508583762552
+    second: '!$Elevator Doors Ace_957'
+  - first:
+      213: -1120038957481960710
+    second: '!$Elevator Doors Ace_958'
+  - first:
+      213: -1836672500980899265
+    second: '!$Elevator Doors Ace_959'
+  - first:
+      213: 2191927035677005932
+    second: '!$Elevator Doors Ace_960'
+  - first:
+      213: -7950924089339357843
+    second: '!$Elevator Doors Ace_961'
+  - first:
+      213: 4231390396713935541
+    second: '!$Elevator Doors Ace_962'
+  - first:
+      213: -579144593988798934
+    second: '!$Elevator Doors Ace_963'
+  - first:
+      213: -1014888035075685110
+    second: '!$Elevator Doors Ace_964'
+  - first:
+      213: -1998000765566848933
+    second: '!$Elevator Doors Ace_965'
+  - first:
+      213: -8601653495398917192
+    second: '!$Elevator Doors Ace_966'
+  - first:
+      213: -1509297570868685840
+    second: '!$Elevator Doors Ace_967'
+  - first:
+      213: -221012238608131694
+    second: '!$Elevator Doors Ace_968'
+  - first:
+      213: 6705529061357808247
+    second: '!$Elevator Doors Ace_969'
+  - first:
+      213: 2947594264765872828
+    second: '!$Elevator Doors Ace_970'
+  - first:
+      213: 4124722638892962571
+    second: '!$Elevator Doors Ace_971'
+  - first:
+      213: 170596374029221021
+    second: '!$Elevator Doors Ace_972'
+  - first:
+      213: -6040842476550655691
+    second: '!$Elevator Doors Ace_973'
+  - first:
+      213: 8746242828688442544
+    second: '!$Elevator Doors Ace_974'
+  - first:
+      213: 5964112329370030705
+    second: '!$Elevator Doors Ace_975'
+  - first:
+      213: 1220543063582234643
+    second: '!$Elevator Doors Ace_976'
+  - first:
+      213: 973517790951089473
+    second: '!$Elevator Doors Ace_977'
+  - first:
+      213: -7899978392644036983
+    second: '!$Elevator Doors Ace_978'
+  - first:
+      213: -2345335840760499927
+    second: '!$Elevator Doors Ace_979'
+  - first:
+      213: -4800884759174245900
+    second: '!$Elevator Doors Ace_980'
+  - first:
+      213: -6638391919611163075
+    second: '!$Elevator Doors Ace_981'
+  - first:
+      213: 1290423778220696216
+    second: '!$Elevator Doors Ace_982'
+  - first:
+      213: 1541040972441693345
+    second: '!$Elevator Doors Ace_983'
+  - first:
+      213: -7108092648494982778
+    second: '!$Elevator Doors Ace_984'
+  - first:
+      213: -6400797655422766744
+    second: '!$Elevator Doors Ace_985'
+  - first:
+      213: 8664791737008837208
+    second: '!$Elevator Doors Ace_986'
+  - first:
+      213: 7970992995087542481
+    second: '!$Elevator Doors Ace_987'
+  - first:
+      213: 5788361339863281705
+    second: '!$Elevator Doors Ace_988'
+  - first:
+      213: 3323262510431572492
+    second: '!$Elevator Doors Ace_989'
+  - first:
+      213: 9093226994185572033
+    second: '!$Elevator Doors Ace_990'
+  - first:
+      213: -5556949343303646427
+    second: '!$Elevator Doors Ace_991'
+  - first:
+      213: 1191458328784174658
+    second: '!$Elevator Doors Ace_992'
+  - first:
+      213: -8324155918203834783
+    second: '!$Elevator Doors Ace_993'
+  - first:
+      213: 8649319264222683396
+    second: '!$Elevator Doors Ace_994'
+  - first:
+      213: -6333446919610326836
+    second: '!$Elevator Doors Ace_995'
+  - first:
+      213: 7407260875166123115
+    second: '!$Elevator Doors Ace_996'
+  - first:
+      213: 4575162132840111590
+    second: '!$Elevator Doors Ace_997'
+  - first:
+      213: -3879590896991691258
+    second: '!$Elevator Doors Ace_998'
+  - first:
+      213: 6081553280836865177
+    second: '!$Elevator Doors Ace_999'
+  - first:
+      213: -2921199076769414134
+    second: '!$Elevator Doors Ace_1000'
+  - first:
+      213: -6213406116551351542
+    second: '!$Elevator Doors Ace_1001'
+  - first:
+      213: 1773163266116006505
+    second: '!$Elevator Doors Ace_1002'
+  - first:
+      213: 8317405562010258625
+    second: '!$Elevator Doors Ace_1003'
+  - first:
+      213: -5736339301092162604
+    second: '!$Elevator Doors Ace_1004'
+  - first:
+      213: -994957219886439563
+    second: '!$Elevator Doors Ace_1005'
+  - first:
+      213: -4739621626664412810
+    second: '!$Elevator Doors Ace_1006'
+  - first:
+      213: 7476169326951097545
+    second: '!$Elevator Doors Ace_1007'
+  - first:
+      213: 4782438081788700092
+    second: '!$Elevator Doors Ace_1008'
+  - first:
+      213: 4183628242247450814
+    second: '!$Elevator Doors Ace_1009'
+  - first:
+      213: -6076706040785296344
+    second: '!$Elevator Doors Ace_1010'
+  - first:
+      213: 4050460371355573473
+    second: '!$Elevator Doors Ace_1011'
+  - first:
+      213: -7496297523192734399
+    second: '!$Elevator Doors Ace_1012'
+  - first:
+      213: -5749678245414467194
+    second: '!$Elevator Doors Ace_1013'
+  - first:
+      213: -8307029504924070635
+    second: '!$Elevator Doors Ace_1014'
+  - first:
+      213: -2186343330137649416
+    second: '!$Elevator Doors Ace_1015'
+  - first:
+      213: -2858075890321911511
+    second: '!$Elevator Doors Ace_1016'
+  - first:
+      213: 7299072736175763779
+    second: '!$Elevator Doors Ace_1017'
+  - first:
+      213: -4039291206883090175
+    second: '!$Elevator Doors Ace_1018'
+  - first:
+      213: 1212526366468391958
+    second: '!$Elevator Doors Ace_1019'
+  - first:
+      213: 8142170774503794196
+    second: '!$Elevator Doors Ace_1020'
+  - first:
+      213: 8116745403695851303
+    second: '!$Elevator Doors Ace_1021'
+  - first:
+      213: 4871566002070963944
+    second: '!$Elevator Doors Ace_1022'
+  - first:
+      213: 2096566238223867424
+    second: '!$Elevator Doors Ace_1023'
+  - first:
+      213: 3537822610148149959
+    second: '!$Elevator Doors Ace_1024'
+  - first:
+      213: 2346578696510644612
+    second: '!$Elevator Doors Ace_1025'
+  - first:
+      213: 8107829592510752770
+    second: '!$Elevator Doors Ace_1026'
+  - first:
+      213: -2068537397533903431
+    second: '!$Elevator Doors Ace_1027'
+  - first:
+      213: 5624781739714245252
+    second: '!$Elevator Doors Ace_1028'
+  - first:
+      213: -8062862258081141187
+    second: '!$Elevator Doors Ace_1029'
+  - first:
+      213: 6138820535168989662
+    second: '!$Elevator Doors Ace_1030'
+  - first:
+      213: -3846839171607911497
+    second: '!$Elevator Doors Ace_1031'
+  - first:
+      213: -8495183222204263594
+    second: '!$Elevator Doors Ace_1032'
+  - first:
+      213: -6209552197310426001
+    second: '!$Elevator Doors Ace_1033'
+  - first:
+      213: 7451183790433318051
+    second: '!$Elevator Doors Ace_1034'
+  - first:
+      213: -7114735735955763347
+    second: '!$Elevator Doors Ace_1035'
+  - first:
+      213: 2896609012705958287
+    second: '!$Elevator Doors Ace_1036'
+  - first:
+      213: -5597713974343483091
+    second: '!$Elevator Doors Ace_1037'
+  - first:
+      213: -1476184369934183724
+    second: '!$Elevator Doors Ace_1038'
+  - first:
+      213: -346460183387040021
+    second: '!$Elevator Doors Ace_1039'
+  - first:
+      213: 930769537484927512
+    second: '!$Elevator Doors Ace_1040'
+  - first:
+      213: -8770085119925870620
+    second: '!$Elevator Doors Ace_1041'
+  - first:
+      213: -3816221609685669065
+    second: '!$Elevator Doors Ace_1042'
+  - first:
+      213: -6020674429539423135
+    second: '!$Elevator Doors Ace_1043'
+  - first:
+      213: 1874286810027665810
+    second: '!$Elevator Doors Ace_1044'
+  - first:
+      213: -1986055338157497606
+    second: '!$Elevator Doors Ace_1045'
+  - first:
+      213: 3168846621226397032
+    second: '!$Elevator Doors Ace_1046'
+  - first:
+      213: -6831021924869227907
+    second: '!$Elevator Doors Ace_1047'
+  - first:
+      213: 2671332250776393795
+    second: '!$Elevator Doors Ace_1048'
+  - first:
+      213: -2984011703575396186
+    second: '!$Elevator Doors Ace_1049'
+  - first:
+      213: 6085414384209653988
+    second: '!$Elevator Doors Ace_1050'
+  - first:
+      213: -4091027985231395603
+    second: '!$Elevator Doors Ace_1051'
+  - first:
+      213: -3720964315659034645
+    second: '!$Elevator Doors Ace_1052'
+  - first:
+      213: 3579220626628535124
+    second: '!$Elevator Doors Ace_1053'
+  - first:
+      213: -140529411596284247
+    second: '!$Elevator Doors Ace_1054'
+  - first:
+      213: -2391459374829351071
+    second: '!$Elevator Doors Ace_1055'
+  - first:
+      213: -627538178225123707
+    second: '!$Elevator Doors Ace_1056'
+  - first:
+      213: -1757892372776295228
+    second: '!$Elevator Doors Ace_1057'
+  - first:
+      213: -526183535195247791
+    second: '!$Elevator Doors Ace_1058'
+  - first:
+      213: 6420250634824991860
+    second: '!$Elevator Doors Ace_1059'
+  - first:
+      213: -687858361499774175
+    second: '!$Elevator Doors Ace_1060'
+  - first:
+      213: -1898700697427194830
+    second: '!$Elevator Doors Ace_1061'
+  - first:
+      213: 4516638602558099278
+    second: '!$Elevator Doors Ace_1062'
+  - first:
+      213: 3194786811303700009
+    second: '!$Elevator Doors Ace_1063'
+  - first:
+      213: -4837645093359442845
+    second: '!$Elevator Doors Ace_1064'
+  - first:
+      213: -6101095642072715369
+    second: '!$Elevator Doors Ace_1065'
+  - first:
+      213: -4828248863731615158
+    second: '!$Elevator Doors Ace_1066'
+  - first:
+      213: 7568783734932000372
+    second: '!$Elevator Doors Ace_1067'
+  - first:
+      213: -2319727931589557547
+    second: '!$Elevator Doors Ace_1068'
+  - first:
+      213: 9220157597081052295
+    second: '!$Elevator Doors Ace_1069'
+  - first:
+      213: -1134533189552234609
+    second: '!$Elevator Doors Ace_1070'
+  - first:
+      213: 7219354803027493522
+    second: '!$Elevator Doors Ace_1071'
+  - first:
+      213: 1957713382136313549
+    second: '!$Elevator Doors Ace_1072'
+  - first:
+      213: -1839722963078478283
+    second: '!$Elevator Doors Ace_1073'
+  - first:
+      213: 957280535499360693
+    second: '!$Elevator Doors Ace_1074'
+  - first:
+      213: -3739988471992768472
+    second: '!$Elevator Doors Ace_1075'
+  - first:
+      213: 7369080735878282403
+    second: '!$Elevator Doors Ace_1076'
+  - first:
+      213: 846825548201211645
+    second: '!$Elevator Doors Ace_1077'
+  - first:
+      213: 542942237116729704
+    second: '!$Elevator Doors Ace_1078'
+  - first:
+      213: 2314101609257401429
+    second: '!$Elevator Doors Ace_1079'
+  - first:
+      213: -1192590141080651215
+    second: '!$Elevator Doors Ace_1080'
+  - first:
+      213: 6891655014275661611
+    second: '!$Elevator Doors Ace_1081'
+  - first:
+      213: 6267663950618923605
+    second: '!$Elevator Doors Ace_1082'
+  - first:
+      213: 7624043306784621777
+    second: '!$Elevator Doors Ace_1083'
+  - first:
+      213: 965891370523706799
+    second: '!$Elevator Doors Ace_1084'
+  - first:
+      213: 4321423662664271323
+    second: '!$Elevator Doors Ace_1085'
+  - first:
+      213: -1392142826250248104
+    second: '!$Elevator Doors Ace_1086'
+  - first:
+      213: 275498615607691068
+    second: '!$Elevator Doors Ace_1087'
+  - first:
+      213: -8116643613150940852
+    second: '!$Elevator Doors Ace_1088'
+  - first:
+      213: 7681059536236449462
+    second: '!$Elevator Doors Ace_1089'
+  - first:
+      213: -8388165779941633388
+    second: '!$Elevator Doors Ace_1090'
+  - first:
+      213: 7575441044829396628
+    second: '!$Elevator Doors Ace_1091'
+  - first:
+      213: -2569775120238456411
+    second: '!$Elevator Doors Ace_1092'
+  - first:
+      213: 8124824528696548818
+    second: '!$Elevator Doors Ace_1093'
+  - first:
+      213: -7092716703614997430
+    second: '!$Elevator Doors Ace_1094'
+  - first:
+      213: -372808783284456091
+    second: '!$Elevator Doors Ace_1095'
+  - first:
+      213: -99634756843149254
+    second: '!$Elevator Doors Ace_1096'
+  - first:
+      213: 3374911768933240185
+    second: '!$Elevator Doors Ace_1097'
+  - first:
+      213: 4342716087596066955
+    second: '!$Elevator Doors Ace_1098'
+  - first:
+      213: 6682154211425588972
+    second: '!$Elevator Doors Ace_1099'
+  - first:
+      213: 7195839202416469899
+    second: '!$Elevator Doors Ace_1100'
+  - first:
+      213: 7371114623351537793
+    second: '!$Elevator Doors Ace_1101'
+  - first:
+      213: 3717891508976820144
+    second: '!$Elevator Doors Ace_1102'
+  - first:
+      213: 1682799666652540138
+    second: '!$Elevator Doors Ace_1103'
+  - first:
+      213: 8988813680566718441
+    second: '!$Elevator Doors Ace_1104'
+  - first:
+      213: 2604081122469898665
+    second: '!$Elevator Doors Ace_1105'
+  - first:
+      213: -9048491731587336106
+    second: '!$Elevator Doors Ace_1106'
+  - first:
+      213: 2184094970270128480
+    second: '!$Elevator Doors Ace_1107'
+  - first:
+      213: -2616580317144836053
+    second: '!$Elevator Doors Ace_1108'
+  - first:
+      213: 3076299590299435436
+    second: '!$Elevator Doors Ace_1109'
+  - first:
+      213: -4157720185234517098
+    second: '!$Elevator Doors Ace_1110'
+  - first:
+      213: -5396354231766928244
+    second: '!$Elevator Doors Ace_1111'
+  - first:
+      213: 3455744825953377291
+    second: '!$Elevator Doors Ace_1112'
+  - first:
+      213: 6932540598418345195
+    second: '!$Elevator Doors Ace_1113'
+  - first:
+      213: -1255353387008723930
+    second: '!$Elevator Doors Ace_1114'
+  - first:
+      213: -8770241577885209681
+    second: '!$Elevator Doors Ace_1115'
+  - first:
+      213: -3381488609883082585
+    second: '!$Elevator Doors Ace_1116'
+  - first:
+      213: 1992806306872421883
+    second: '!$Elevator Doors Ace_1117'
+  - first:
+      213: -3057765378193572066
+    second: '!$Elevator Doors Ace_1118'
+  - first:
+      213: 4597839921135183856
+    second: '!$Elevator Doors Ace_1119'
+  - first:
+      213: -2092489800781422321
+    second: '!$Elevator Doors Ace_1120'
+  - first:
+      213: -6083640004425430431
+    second: '!$Elevator Doors Ace_1121'
+  - first:
+      213: 1025739959822328954
+    second: '!$Elevator Doors Ace_1122'
+  - first:
+      213: 1902037923349037341
+    second: '!$Elevator Doors Ace_1123'
+  - first:
+      213: -7070215802399639955
+    second: '!$Elevator Doors Ace_1124'
+  - first:
+      213: -1131651090460777471
+    second: '!$Elevator Doors Ace_1125'
+  - first:
+      213: 417045392432552003
+    second: '!$Elevator Doors Ace_1126'
+  - first:
+      213: 4807679338721829475
+    second: '!$Elevator Doors Ace_1127'
+  - first:
+      213: 6852542262989685404
+    second: '!$Elevator Doors Ace_1128'
+  - first:
+      213: -2189427303749405821
+    second: '!$Elevator Doors Ace_1129'
+  - first:
+      213: -555589821177060701
+    second: '!$Elevator Doors Ace_1130'
+  - first:
+      213: -1705137539557716498
+    second: '!$Elevator Doors Ace_1131'
+  - first:
+      213: 1297274346389097772
+    second: '!$Elevator Doors Ace_1132'
+  - first:
+      213: 5205920237225830813
+    second: '!$Elevator Doors Ace_1133'
+  - first:
+      213: -2192419214566397913
+    second: '!$Elevator Doors Ace_1134'
+  - first:
+      213: 7513696996824508745
+    second: '!$Elevator Doors Ace_1135'
+  - first:
+      213: -4872307713495403450
+    second: '!$Elevator Doors Ace_1136'
+  - first:
+      213: -7310098535074456818
+    second: '!$Elevator Doors Ace_1137'
+  - first:
+      213: -339046244779406595
+    second: '!$Elevator Doors Ace_1138'
+  - first:
+      213: -5369716772458865171
+    second: '!$Elevator Doors Ace_1139'
+  - first:
+      213: -4407101972312302037
+    second: '!$Elevator Doors Ace_1140'
+  - first:
+      213: 8924388312349799468
+    second: '!$Elevator Doors Ace_1141'
+  - first:
+      213: -6623654050319430179
+    second: '!$Elevator Doors Ace_1142'
+  - first:
+      213: -21321184653742347
+    second: '!$Elevator Doors Ace_1143'
+  - first:
+      213: -2026288227873036097
+    second: '!$Elevator Doors Ace_1144'
+  - first:
+      213: 4875626428652855342
+    second: '!$Elevator Doors Ace_1145'
+  - first:
+      213: 1547853450725212759
+    second: '!$Elevator Doors Ace_1146'
+  - first:
+      213: 5692121011371615283
+    second: '!$Elevator Doors Ace_1147'
+  - first:
+      213: -7672974370455283958
+    second: '!$Elevator Doors Ace_1148'
+  - first:
+      213: -2848580499466850871
+    second: '!$Elevator Doors Ace_1149'
+  - first:
+      213: -9166342580144751003
+    second: '!$Elevator Doors Ace_1150'
+  - first:
+      213: -485034835679437468
+    second: '!$Elevator Doors Ace_1151'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0c06585fc83dc40800000000000000
+      internalID: 5535923353101058254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_1'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b76ea00d3db2c330800000000000000
+      internalID: 3729751511118276532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_2'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d85f6db36202f60800000000000000
+      internalID: 8007442175916084489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_3'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca27665767c745de0800000000000000
+      internalID: -1345313540459302228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_4'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6588dba43e518a0800000000000000
+      internalID: -6334907390679820576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_5'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b6398a4ee235d70800000000000000
+      internalID: 9030613237423631222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_6'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd824b282a7eca50800000000000000
+      internalID: 6543301621558971829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_7'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ecbc4bf22d288d0800000000000000
+      internalID: -2845480912206180828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_8'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee19d2579e6d0890800000000000000
+      internalID: -7490209009038188817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_9'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23cfcceae63c14c0800000000000000
+      internalID: -4315513960304491734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_10'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e431a4ff257c36470800000000000000
+      internalID: 8386766090378285902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_11'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b11acd2eedf3b30800000000000000
+      internalID: 4269376037716040493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_12'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db135c368f60dcf80800000000000000
+      internalID: -8084798092164648515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_13'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6a0f6842534dd40800000000000000
+      internalID: 5608165866982123215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_14'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a7a4250e93add30800000000000000
+      internalID: 4456938416852597369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_15'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7defdc779013c1f0800000000000000
+      internalID: -1025958047289184900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_16'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686f661d7cde78ec0800000000000000
+      internalID: -3564619137572997498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_17'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb42e991a4d0f990800000000000000
+      internalID: -7354144400959452226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_18'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ad77fa440e81ed0800000000000000
+      internalID: -2442956212242228683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_19'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7186ccad252a1a0800000000000000
+      internalID: -6799781387690305589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_20'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bea9d9f8aedb0930800000000000000
+      internalID: 4110623902233374389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_21'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cb8c991c745a480800000000000000
+      internalID: -8888619392711476163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_22'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afbda85c08a7c030800000000000000
+      internalID: 3514962805166817187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_23'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffd270dc14113050800000000000000
+      internalID: 5778421910881886201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_24'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f88765d89aea5530800000000000000
+      internalID: 3844643174050400505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_25'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb55e75fd392ab0b0800000000000000
+      internalID: -5712207831277611588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_26'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9e677bc784c61d0800000000000000
+      internalID: -3356227921806693898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_27'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25aedd9c440ef940800000000000000
+      internalID: 5331703735965885743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_28'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa88bc14693b6a6c0800000000000000
+      internalID: -4132418150135527249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_29'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f9a95d49d983090800000000000000
+      internalID: -8054514670987731106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_30'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c98a65fbfc62dd0800000000000000
+      internalID: -2511091321512878982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_31'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bebf3d65a35dd440800000000000000
+      internalID: 4962214334399758007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_32'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5206ea76b4777c20800000000000000
+      internalID: 3204157986992161374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_33'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10586fa927b1a51d0800000000000000
+      internalID: -3361343992838585087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_34'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d753a56d6c87cee0800000000000000
+      internalID: -1240868770832754730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_35'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206947f253c5aacd0800000000000000
+      internalID: -2546121255825402366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_36'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca321ce861b7a840800000000000000
+      internalID: 5235348156036823754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_37'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62e1c63f69e2f130800000000000000
+      internalID: 3599195716091765356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_38'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12329672538b3d90800000000000000
+      internalID: -7116950395929087458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_39'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c579995b4561e40800000000000000
+      internalID: 5626777923388660878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_40'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9886ed1eef5e2830800000000000000
+      internalID: 4048278591361157276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_41'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bfa79403da57fb0800000000000000
+      internalID: -4650620617287337124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_42'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7093a7c8b56c1d8d0800000000000000
+      internalID: -2823257394883446521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_43'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f182a25cb82e700800000000000000
+      internalID: 568170181934194466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_44'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422d411f5937729f0800000000000000
+      internalID: -493298546341785052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_45'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d56708eb56389c0800000000000000
+      internalID: -3926182581263508121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_46'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1610263e54d519680800000000000000
+      internalID: -8750110046255185567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_47'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ac6adba63000a10800000000000000
+      internalID: 1873501201969367707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_48'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3d0d294ba7ea7c0800000000000000
+      internalID: -4058171298238376968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_49'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9db7b53bd7d1e310800000000000000
+      internalID: 1432663492979572125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_50'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9ebbebb8da0a3d0800000000000000
+      internalID: -3197364919721006619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_51'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbcf3a039cbdd000800000000000000
+      internalID: 62413309571222512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_52'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd94542c96980ca10800000000000000
+      internalID: 1927691727838464477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_53'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65fc4ced0c506e60800000000000000
+      internalID: 7953458156805092718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_54'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fdc501b2e58b300800000000000000
+      internalID: 268067716879671181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_55'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6d0030c9b89c770800000000000000
+      internalID: 8631583663013811906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_56'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef80d3352b516ac0800000000000000
+      internalID: -3863706789965950996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_57'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d77ed5e5b63404b0800000000000000
+      internalID: -5475191092102137895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_58'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0f97b6908cb3210800000000000000
+      internalID: 1313863659092046015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_59'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79719aa6202e26d0800000000000000
+      internalID: -3013435750221776515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_60'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ab2ec7a95906130800000000000000
+      internalID: 3558008196375427728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_61'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e01fadaca00a57a0800000000000000
+      internalID: -6387792379823320859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_62'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20eb9c5abd851ac50800000000000000
+      internalID: 6674713823142329858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_63'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9739bfc548e3ac00800000000000000
+      internalID: 910826936194381727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_64'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc42adbd11407f560800000000000000
+      internalID: 7347345791827715276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_65'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781af4a4bd6c8dbd0800000000000000
+      internalID: -2605113739286961785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_66'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35023688f119e8640800000000000000
+      internalID: 5084160593966080083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_67'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ce493c8f17eca70800000000000000
+      internalID: 8849135631076748381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_68'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94418c6af242bfc60800000000000000
+      internalID: 7852910162330784841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_69'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832c7f23786e3fcc0800000000000000
+      internalID: -3678343002281491912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_70'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc230a896e8cacb40800000000000000
+      internalID: 5461398390868816588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Elevator Doors Ace_71'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2880be25e3ea8e0800000000000000
+      internalID: -1680337085111172360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '!$Elevator Doors Ace_0': 5535923353101058254
+      '!$Elevator Doors Ace_1': 3729751511118276532
+      '!$Elevator Doors Ace_10': 8386766090378285902
+      '!$Elevator Doors Ace_11': 4269376037716040493
+      '!$Elevator Doors Ace_12': -8084798092164648515
+      '!$Elevator Doors Ace_13': 5608165866982123215
+      '!$Elevator Doors Ace_14': 4456938416852597369
+      '!$Elevator Doors Ace_15': -1025958047289184900
+      '!$Elevator Doors Ace_16': -3564619137572997498
+      '!$Elevator Doors Ace_17': -7354144400959452226
+      '!$Elevator Doors Ace_18': -2442956212242228683
+      '!$Elevator Doors Ace_19': -6799781387690305589
+      '!$Elevator Doors Ace_2': 8007442175916084489
+      '!$Elevator Doors Ace_20': 4110623902233374389
+      '!$Elevator Doors Ace_21': -8888619392711476163
+      '!$Elevator Doors Ace_22': 3514962805166817187
+      '!$Elevator Doors Ace_23': 5778421910881886201
+      '!$Elevator Doors Ace_24': 3844643174050400505
+      '!$Elevator Doors Ace_25': -5712207831277611588
+      '!$Elevator Doors Ace_26': -3356227921806693898
+      '!$Elevator Doors Ace_27': 5331703735965885743
+      '!$Elevator Doors Ace_28': -4132418150135527249
+      '!$Elevator Doors Ace_29': -8054514670987731106
+      '!$Elevator Doors Ace_3': -1345313540459302228
+      '!$Elevator Doors Ace_30': -2511091321512878982
+      '!$Elevator Doors Ace_31': 4962214334399758007
+      '!$Elevator Doors Ace_32': 3204157986992161374
+      '!$Elevator Doors Ace_33': -3361343992838585087
+      '!$Elevator Doors Ace_34': -1240868770832754730
+      '!$Elevator Doors Ace_35': -2546121255825402366
+      '!$Elevator Doors Ace_36': 5235348156036823754
+      '!$Elevator Doors Ace_37': 3599195716091765356
+      '!$Elevator Doors Ace_38': -7116950395929087458
+      '!$Elevator Doors Ace_39': 5626777923388660878
+      '!$Elevator Doors Ace_4': -6334907390679820576
+      '!$Elevator Doors Ace_40': 4048278591361157276
+      '!$Elevator Doors Ace_41': -4650620617287337124
+      '!$Elevator Doors Ace_42': -2823257394883446521
+      '!$Elevator Doors Ace_43': 568170181934194466
+      '!$Elevator Doors Ace_44': -493298546341785052
+      '!$Elevator Doors Ace_45': -3926182581263508121
+      '!$Elevator Doors Ace_46': -8750110046255185567
+      '!$Elevator Doors Ace_47': 1873501201969367707
+      '!$Elevator Doors Ace_48': -4058171298238376968
+      '!$Elevator Doors Ace_49': 1432663492979572125
+      '!$Elevator Doors Ace_5': 9030613237423631222
+      '!$Elevator Doors Ace_50': -3197364919721006619
+      '!$Elevator Doors Ace_51': 62413309571222512
+      '!$Elevator Doors Ace_52': 1927691727838464477
+      '!$Elevator Doors Ace_53': 7953458156805092718
+      '!$Elevator Doors Ace_54': 268067716879671181
+      '!$Elevator Doors Ace_55': 8631583663013811906
+      '!$Elevator Doors Ace_56': -3863706789965950996
+      '!$Elevator Doors Ace_57': -5475191092102137895
+      '!$Elevator Doors Ace_58': 1313863659092046015
+      '!$Elevator Doors Ace_59': -3013435750221776515
+      '!$Elevator Doors Ace_6': 6543301621558971829
+      '!$Elevator Doors Ace_60': 3558008196375427728
+      '!$Elevator Doors Ace_61': -6387792379823320859
+      '!$Elevator Doors Ace_62': 6674713823142329858
+      '!$Elevator Doors Ace_63': 910826936194381727
+      '!$Elevator Doors Ace_64': 7347345791827715276
+      '!$Elevator Doors Ace_65': -2605113739286961785
+      '!$Elevator Doors Ace_66': 5084160593966080083
+      '!$Elevator Doors Ace_67': 8849135631076748381
+      '!$Elevator Doors Ace_68': 7852910162330784841
+      '!$Elevator Doors Ace_69': -3678343002281491912
+      '!$Elevator Doors Ace_7': -2845480912206180828
+      '!$Elevator Doors Ace_70': 5461398390868816588
+      '!$Elevator Doors Ace_71': -1680337085111172360
+      '!$Elevator Doors Ace_8': -7490209009038188817
+      '!$Elevator Doors Ace_9': -4315513960304491734
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

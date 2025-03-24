@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{08be0c64-ee59-4747-978d-2a54c7b73108}">
+		<property name="assetPath">
+			<value>Ambience/elevator-ding.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.3864583333333336</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e025d9f9-cd83-47d5-9394-ce3f07f4cab4}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4800085fd0742c24a97ab9c980f10781
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _myAnimator: {instanceID: 0}
+  - _boy: {fileID: 707199513790786217, guid: f1f7bd51ad420f048ad30821d946adc0, type: 3}
+  - _girl: {fileID: 7888599800557731787, guid: b328f87a04948464297f58f658f0e387, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

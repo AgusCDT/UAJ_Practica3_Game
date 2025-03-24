@@ -1,0 +1,1671 @@
+fileFormatVersion: 2
+guid: 5df7c078360f0a8498aed323d867bf65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -519016541543065959
+    second: TileB_Laboratory_0
+  - first:
+      213: 3437450023837302197
+    second: TileB_Laboratory_1
+  - first:
+      213: 8458003704098645596
+    second: TileB_Laboratory_2
+  - first:
+      213: 8046559335581510280
+    second: TileB_Laboratory_3
+  - first:
+      213: -7274094692630731828
+    second: TileB_Laboratory_4
+  - first:
+      213: 4217008993498335680
+    second: TileB_Laboratory_5
+  - first:
+      213: 8070483209119992904
+    second: TileB_Laboratory_6
+  - first:
+      213: -997312392081498731
+    second: TileB_Laboratory_7
+  - first:
+      213: -3241646224823553609
+    second: TileB_Laboratory_8
+  - first:
+      213: -5944255177324273848
+    second: TileB_Laboratory_9
+  - first:
+      213: -8130585732173455511
+    second: TileB_Laboratory_10
+  - first:
+      213: -1996049455882992736
+    second: TileB_Laboratory_11
+  - first:
+      213: 3663844497686228971
+    second: TileB_Laboratory_12
+  - first:
+      213: 2272579387726826811
+    second: TileB_Laboratory_13
+  - first:
+      213: -1600372681909016063
+    second: TileB_Laboratory_14
+  - first:
+      213: 2145004300717691365
+    second: TileB_Laboratory_15
+  - first:
+      213: 7630175581610300552
+    second: TileB_Laboratory_16
+  - first:
+      213: 5303668104948898431
+    second: TileB_Laboratory_17
+  - first:
+      213: 4293630236163770505
+    second: TileB_Laboratory_18
+  - first:
+      213: 4525178009726628103
+    second: TileB_Laboratory_19
+  - first:
+      213: -5053840308395949690
+    second: TileB_Laboratory_20
+  - first:
+      213: -5889158302233690755
+    second: TileB_Laboratory_21
+  - first:
+      213: 7964009681190013369
+    second: TileB_Laboratory_22
+  - first:
+      213: 8412226649932836001
+    second: TileB_Laboratory_23
+  - first:
+      213: -8900588222648325396
+    second: TileB_Laboratory_24
+  - first:
+      213: 7429906792454679352
+    second: TileB_Laboratory_25
+  - first:
+      213: 654087336346152703
+    second: TileB_Laboratory_26
+  - first:
+      213: 8999647763380492050
+    second: TileB_Laboratory_27
+  - first:
+      213: -8787247222472025573
+    second: TileB_Laboratory_28
+  - first:
+      213: 1315486648482912609
+    second: TileB_Laboratory_29
+  - first:
+      213: -2290286502102741299
+    second: TileB_Laboratory_30
+  - first:
+      213: -3947790751651466360
+    second: TileB_Laboratory_31
+  - first:
+      213: 2224089710454126341
+    second: TileB_Laboratory_32
+  - first:
+      213: -6161251547534867895
+    second: TileB_Laboratory_33
+  - first:
+      213: 8948682231287614063
+    second: TileB_Laboratory_34
+  - first:
+      213: -5079924918335330772
+    second: TileB_Laboratory_35
+  - first:
+      213: -7499375292734885113
+    second: TileB_Laboratory_36
+  - first:
+      213: -8179893531754401025
+    second: TileB_Laboratory_37
+  - first:
+      213: 8186789710628233539
+    second: TileB_Laboratory_38
+  - first:
+      213: -3008879245889480645
+    second: TileB_Laboratory_39
+  - first:
+      213: -328736696106199055
+    second: TileB_Laboratory_40
+  - first:
+      213: -5712842251260898626
+    second: TileB_Laboratory_41
+  - first:
+      213: -7554745513413588062
+    second: TileB_Laboratory_42
+  - first:
+      213: -2872259668948899103
+    second: TileB_Laboratory_43
+  - first:
+      213: -1816305336861857324
+    second: TileB_Laboratory_44
+  - first:
+      213: 8239210777799998032
+    second: TileB_Laboratory_45
+  - first:
+      213: 4599257941793027346
+    second: TileB_Laboratory_46
+  - first:
+      213: -7637586141395104452
+    second: TileB_Laboratory_47
+  - first:
+      213: 3380271304378889212
+    second: TileB_Laboratory_48
+  - first:
+      213: -4008841991634903469
+    second: TileB_Laboratory_49
+  - first:
+      213: 816972289871127013
+    second: TileB_Laboratory_50
+  - first:
+      213: -1945304067108346975
+    second: TileB_Laboratory_51
+  - first:
+      213: -3890459428300412931
+    second: TileB_Laboratory_52
+  - first:
+      213: 1468511702744674800
+    second: TileB_Laboratory_53
+  - first:
+      213: 4004281832956812488
+    second: TileB_Laboratory_54
+  - first:
+      213: -7890835075415303191
+    second: TileB_Laboratory_55
+  - first:
+      213: -8283538980788266552
+    second: TileB_Laboratory_56
+  - first:
+      213: 2729377486493745315
+    second: TileB_Laboratory_57
+  - first:
+      213: 7198114362025189021
+    second: TileB_Laboratory_58
+  - first:
+      213: -502074120290921077
+    second: TileB_Laboratory_59
+  - first:
+      213: 2602014171273964472
+    second: TileB_Laboratory_60
+  - first:
+      213: -8357694877892125041
+    second: TileB_Laboratory_61
+  - first:
+      213: -5845776278964298397
+    second: TileB_Laboratory_62
+  - first:
+      213: 2959720493320302093
+    second: TileB_Laboratory_63
+  - first:
+      213: -2121837358052490941
+    second: TileB_Laboratory_64
+  - first:
+      213: -4306897466000077320
+    second: TileB_Laboratory_65
+  - first:
+      213: 8483467491110187360
+    second: TileB_Laboratory_66
+  - first:
+      213: -4678235022991597379
+    second: TileB_Laboratory_67
+  - first:
+      213: -3642728281151215695
+    second: TileB_Laboratory_68
+  - first:
+      213: 6308661076846094354
+    second: TileB_Laboratory_69
+  - first:
+      213: -8960979559894274914
+    second: TileB_Laboratory_70
+  - first:
+      213: 1719448363591784753
+    second: TileB_Laboratory_71
+  - first:
+      213: -1974402529474680897
+    second: TileB_Laboratory_72
+  - first:
+      213: -7273193389264932952
+    second: TileB_Laboratory_73
+  - first:
+      213: -6977230745699535529
+    second: TileB_Laboratory_74
+  - first:
+      213: -3913569857337062221
+    second: TileB_Laboratory_75
+  - first:
+      213: 5594570001055958297
+    second: TileB_Laboratory_76
+  - first:
+      213: -3312571003823374800
+    second: TileB_Laboratory_77
+  - first:
+      213: 7264371061961903912
+    second: TileB_Laboratory_78
+  - first:
+      213: -8386366282423549539
+    second: TileB_Laboratory_79
+  - first:
+      213: 3145880377912261356
+    second: TileB_Laboratory_80
+  - first:
+      213: 7063173204488016314
+    second: TileB_Laboratory_81
+  - first:
+      213: 4390059236354132673
+    second: TileB_Laboratory_82
+  - first:
+      213: 5112179952562850372
+    second: TileB_Laboratory_83
+  - first:
+      213: 4987065538744702053
+    second: TileB_Laboratory_84
+  - first:
+      213: -8740805722464155230
+    second: TileB_Laboratory_85
+  - first:
+      213: -6584612657359151155
+    second: TileB_Laboratory_86
+  - first:
+      213: -4740473046051407579
+    second: TileB_Laboratory_87
+  - first:
+      213: 4378855416998261448
+    second: TileB_Laboratory_88
+  - first:
+      213: 2762730805481656711
+    second: TileB_Laboratory_89
+  - first:
+      213: 7715177351235552241
+    second: TileB_Laboratory_90
+  - first:
+      213: 9039147307171137365
+    second: TileB_Laboratory_91
+  - first:
+      213: -7518113763578748656
+    second: TileB_Laboratory_92
+  - first:
+      213: -8541192889262781947
+    second: TileB_Laboratory_93
+  - first:
+      213: 7952071550683972000
+    second: TileB_Laboratory_94
+  - first:
+      213: 3301654565732013041
+    second: TileB_Laboratory_95
+  - first:
+      213: 6042472480798669181
+    second: TileB_Laboratory_96
+  - first:
+      213: 4285737966194782704
+    second: TileB_Laboratory_97
+  - first:
+      213: 3073118307849005139
+    second: TileB_Laboratory_98
+  - first:
+      213: 4521299430118389651
+    second: TileB_Laboratory_99
+  - first:
+      213: -4248043549534406424
+    second: TileB_Laboratory_100
+  - first:
+      213: 3875256128959708834
+    second: TileB_Laboratory_101
+  - first:
+      213: -9214051168179984363
+    second: TileB_Laboratory_102
+  - first:
+      213: 8852433082717755787
+    second: TileB_Laboratory_103
+  - first:
+      213: -3278537795791638056
+    second: TileB_Laboratory_104
+  - first:
+      213: 5133984122941252339
+    second: TileB_Laboratory_105
+  - first:
+      213: 2573398034766147547
+    second: TileB_Laboratory_106
+  - first:
+      213: 8030409168091513083
+    second: TileB_Laboratory_107
+  - first:
+      213: -4505797814993258956
+    second: TileB_Laboratory_108
+  - first:
+      213: 8821912769049880425
+    second: TileB_Laboratory_109
+  - first:
+      213: -5764781204144896614
+    second: TileB_Laboratory_110
+  - first:
+      213: 6604406034812555337
+    second: TileB_Laboratory_111
+  - first:
+      213: -3067053414818359186
+    second: TileB_Laboratory_112
+  - first:
+      213: -4187464478906509002
+    second: TileB_Laboratory_113
+  - first:
+      213: -5667935971593484795
+    second: TileB_Laboratory_114
+  - first:
+      213: 7313730002987200421
+    second: TileB_Laboratory_115
+  - first:
+      213: 1627295208001318594
+    second: TileB_Laboratory_116
+  - first:
+      213: -368944087540913845
+    second: TileB_Laboratory_117
+  - first:
+      213: 8423498211240613263
+    second: TileB_Laboratory_118
+  - first:
+      213: 2934618194195880297
+    second: TileB_Laboratory_119
+  - first:
+      213: 3284722335468035684
+    second: TileB_Laboratory_120
+  - first:
+      213: 3158643956865109333
+    second: TileB_Laboratory_121
+  - first:
+      213: 4501913092828950978
+    second: TileB_Laboratory_122
+  - first:
+      213: -1944905207640894200
+    second: TileB_Laboratory_123
+  - first:
+      213: -5103539654966191940
+    second: TileB_Laboratory_124
+  - first:
+      213: -6003467347290560346
+    second: TileB_Laboratory_125
+  - first:
+      213: 6882194004676183715
+    second: TileB_Laboratory_126
+  - first:
+      213: -5044793933634115934
+    second: TileB_Laboratory_127
+  - first:
+      213: -91817172420105817
+    second: TileB_Laboratory_128
+  - first:
+      213: -2828703482092880443
+    second: TileB_Laboratory_129
+  - first:
+      213: 233230661502110002
+    second: TileB_Laboratory_130
+  - first:
+      213: -6808986414791018782
+    second: TileB_Laboratory_131
+  - first:
+      213: -2630262730069111357
+    second: TileB_Laboratory_132
+  - first:
+      213: 279442620687173309
+    second: TileB_Laboratory_133
+  - first:
+      213: 4631235345357851705
+    second: TileB_Laboratory_134
+  - first:
+      213: -7111920307455718044
+    second: TileB_Laboratory_135
+  - first:
+      213: 41847610219881623
+    second: TileB_Laboratory_136
+  - first:
+      213: -7475567567114447248
+    second: TileB_Laboratory_137
+  - first:
+      213: 8389462762494023010
+    second: TileB_Laboratory_138
+  - first:
+      213: 663169845091998999
+    second: TileB_Laboratory_139
+  - first:
+      213: -3516573494139678947
+    second: TileB_Laboratory_140
+  - first:
+      213: -7598008800780155005
+    second: TileB_Laboratory_141
+  - first:
+      213: 1115022234207807535
+    second: TileB_Laboratory_142
+  - first:
+      213: -1611126187720991976
+    second: TileB_Laboratory_143
+  - first:
+      213: 8436214677681741109
+    second: TileB_Laboratory_144
+  - first:
+      213: -2204826381944262540
+    second: TileB_Laboratory_145
+  - first:
+      213: -8185704913105010762
+    second: TileB_Laboratory_146
+  - first:
+      213: 6686712170584748149
+    second: TileB_Laboratory_147
+  - first:
+      213: -6340936501878883829
+    second: TileB_Laboratory_148
+  - first:
+      213: 4149414591806793208
+    second: TileB_Laboratory_149
+  - first:
+      213: -2555152526611806316
+    second: TileB_Laboratory_150
+  - first:
+      213: 5801014629692588705
+    second: TileB_Laboratory_151
+  - first:
+      213: 3993142896334420018
+    second: TileB_Laboratory_152
+  - first:
+      213: -357539839504407655
+    second: TileB_Laboratory_153
+  - first:
+      213: -8379275519468359295
+    second: TileB_Laboratory_154
+  - first:
+      213: 5407772012515483226
+    second: TileB_Laboratory_155
+  - first:
+      213: 1970808887286298611
+    second: TileB_Laboratory_156
+  - first:
+      213: -451665966723982452
+    second: TileB_Laboratory_157
+  - first:
+      213: -6264043870500792759
+    second: TileB_Laboratory_158
+  - first:
+      213: -863372505864682762
+    second: TileB_Laboratory_159
+  - first:
+      213: 7310814352508851526
+    second: TileB_Laboratory_160
+  - first:
+      213: 4747066212936818505
+    second: TileB_Laboratory_161
+  - first:
+      213: 697116351740965429
+    second: TileB_Laboratory_162
+  - first:
+      213: -6916347754773053136
+    second: TileB_Laboratory_163
+  - first:
+      213: 186395770146642954
+    second: TileB_Laboratory_164
+  - first:
+      213: -2782349197124003673
+    second: TileB_Laboratory_165
+  - first:
+      213: -7362599858622472256
+    second: TileB_Laboratory_166
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileB_Laboratory_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99616c094351cc8f0800000000000000
+      internalID: -519016541543065959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdfaf3959644bf20800000000000000
+      internalID: 3437450023837302197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 224
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56ecb37e8dd06570800000000000000
+      internalID: 8458003704098645596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a607d451f1baf60800000000000000
+      internalID: 8046559335581510280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3e037ba693d0b90800000000000000
+      internalID: -7274094692630731828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c988104653d58a30800000000000000
+      internalID: 4217008993498335680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c0a5d28bd100070800000000000000
+      internalID: 8070483209119992904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 208
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d13e3d9a5d822f0800000000000000
+      internalID: -997312392081498731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1f7e9feeb5303d0800000000000000
+      internalID: -3241646224823553609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f5f450963c18da0800000000000000
+      internalID: -5944255177324273848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f11f1ba5b5a2f80800000000000000
+      internalID: -8130585732173455511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 161
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a38bfb689b9c44e0800000000000000
+      internalID: -1996049455882992736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef6bd4a82798d230800000000000000
+      internalID: 3663844497686228971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d055999e2d98f10800000000000000
+      internalID: 2272579387726826811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ae29266855ac9e0800000000000000
+      internalID: -1600372681909016063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e196f9fb0694cd10800000000000000
+      internalID: 2145004300717691365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884ddbbd344d3e960800000000000000
+      internalID: 7630175581610300552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a5c0a9a0a6a9940800000000000000
+      internalID: 5303668104948898431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9880b6f73f9069b30800000000000000
+      internalID: 4293630236163770505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7013a27ac69acce30800000000000000
+      internalID: 4525178009726628103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681428214072dd9b0800000000000000
+      internalID: -5053840308395949690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d7159e9b1854ea0800000000000000
+      internalID: -5889158302233690755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b94a132c98d58e60800000000000000
+      internalID: 7964009681190013369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac2257719b3eb470800000000000000
+      internalID: 8412226649932836001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea65093b22ca7480800000000000000
+      internalID: -8900588222648325396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83be586ccd45c1760800000000000000
+      internalID: 7429906792454679352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe6ef687f8c31900800000000000000
+      internalID: 654087336346152703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 135
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217dee765fb25ec70800000000000000
+      internalID: 8999647763380492050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a540f353d6d0680800000000000000
+      internalID: -8787247222472025573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4083537, y: 0.36253095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169d795132c814210800000000000000
+      internalID: 1315486648482912609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce4b409f844730e0800000000000000
+      internalID: -2290286502102741299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883fd384a31a639c0800000000000000
+      internalID: -3947790751651466360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 53
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5073834decd8dde10800000000000000
+      internalID: 2224089710454126341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942cb597c56de7aa0800000000000000
+      internalID: -6161251547534867895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 53
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a8fb3c31b103c70800000000000000
+      internalID: 8948682231287614063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 53
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26a7fc833b7089b0800000000000000
+      internalID: -5079924918335330772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703323797eddce790800000000000000
+      internalID: -7499375292734885113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2734bfb2e2b7e80800000000000000
+      internalID: -8179893531754401025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341a1d8cdd15d9170800000000000000
+      internalID: 8186789710628233539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3856b084405e36d0800000000000000
+      internalID: -3008879245889480645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f754f377b7107bf0800000000000000
+      internalID: -328736696106199055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb250cb8d38e7b0b0800000000000000
+      internalID: -5712842251260898626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abc1887bf6282790800000000000000
+      internalID: -7554745513413588062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaae998c0fa328d0800000000000000
+      internalID: -2872259668948899103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_44
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 160
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9e3b85bef2bc6e0800000000000000
+      internalID: -1816305336861857324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ab6589c8e875270800000000000000
+      internalID: 8239210777799998032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 152
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215b7faeab8d3df30800000000000000
+      internalID: 4599257941793027346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileB_Laboratory_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 132
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dc2bcbed7d10690800000000000000
+      internalID: -7637586141395104452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TileB_Laboratory_0: -519016541543065959
+      TileB_Laboratory_1: 3437450023837302197
+      TileB_Laboratory_10: -8130585732173455511
+      TileB_Laboratory_11: -1996049455882992736
+      TileB_Laboratory_12: 3663844497686228971
+      TileB_Laboratory_13: 2272579387726826811
+      TileB_Laboratory_14: -1600372681909016063
+      TileB_Laboratory_15: 2145004300717691365
+      TileB_Laboratory_16: 7630175581610300552
+      TileB_Laboratory_17: 5303668104948898431
+      TileB_Laboratory_18: 4293630236163770505
+      TileB_Laboratory_19: 4525178009726628103
+      TileB_Laboratory_2: 8458003704098645596
+      TileB_Laboratory_20: -5053840308395949690
+      TileB_Laboratory_21: -5889158302233690755
+      TileB_Laboratory_22: 7964009681190013369
+      TileB_Laboratory_23: 8412226649932836001
+      TileB_Laboratory_24: -8900588222648325396
+      TileB_Laboratory_25: 7429906792454679352
+      TileB_Laboratory_26: 654087336346152703
+      TileB_Laboratory_27: 8999647763380492050
+      TileB_Laboratory_28: -8787247222472025573
+      TileB_Laboratory_29: 1315486648482912609
+      TileB_Laboratory_3: 8046559335581510280
+      TileB_Laboratory_30: -2290286502102741299
+      TileB_Laboratory_31: -3947790751651466360
+      TileB_Laboratory_32: 2224089710454126341
+      TileB_Laboratory_33: -6161251547534867895
+      TileB_Laboratory_34: 8948682231287614063
+      TileB_Laboratory_35: -5079924918335330772
+      TileB_Laboratory_36: -7499375292734885113
+      TileB_Laboratory_37: -8179893531754401025
+      TileB_Laboratory_38: 8186789710628233539
+      TileB_Laboratory_39: -3008879245889480645
+      TileB_Laboratory_4: -7274094692630731828
+      TileB_Laboratory_40: -328736696106199055
+      TileB_Laboratory_41: -5712842251260898626
+      TileB_Laboratory_42: -7554745513413588062
+      TileB_Laboratory_43: -2872259668948899103
+      TileB_Laboratory_44: -1816305336861857324
+      TileB_Laboratory_45: 8239210777799998032
+      TileB_Laboratory_46: 4599257941793027346
+      TileB_Laboratory_47: -7637586141395104452
+      TileB_Laboratory_5: 4217008993498335680
+      TileB_Laboratory_6: 8070483209119992904
+      TileB_Laboratory_7: -997312392081498731
+      TileB_Laboratory_8: -3241646224823553609
+      TileB_Laboratory_9: -5944255177324273848
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
