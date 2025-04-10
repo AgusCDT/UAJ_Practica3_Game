@@ -1,7 +1,7 @@
 //using Newtonsoft.Json;
 using System.Xml;
 
-namespace telemetry
+namespace Telemetry
 {
     /// <summary>
     /// Serializer in JSON format
@@ -11,7 +11,7 @@ namespace telemetry
         /// <summary>
         /// Serializes the parent attributes first and the child attributes second.
         /// </summary>
-        public string Serialize(TelemetryEvent t_event)
+        public string Serialize(Event t_event)
         {
             /*JsonSerializerSettings jsonSerializerSettings = new JsonSerializerSettings();
             jsonSerializerSettings.Formatting = Formatting.Indented;

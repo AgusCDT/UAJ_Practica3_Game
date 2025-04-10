@@ -7,10 +7,10 @@ namespace Telemetry {
         [JsonProperty(Order = 5)] public int damage { get; private set; }
         [JsonProperty(Order = 6)] public bool death { get; private set; }
 
-        public DamageReceivedEvent(ID_Event type, string ID_Entity, int damage, bool death) : base(type) {
-            this->ID_Entity = ID_Entity;
-            this->damage = damage;
-            this->death = death;
+        public DamageReceivedEvent(ID_Event type, string ID_Entity_, int damage_, bool death_) : base(type) {
+            ID_Entity = ID_Entity_;
+            damage = damage_;
+            death = death_;
         }
     }
 }

@@ -7,8 +7,8 @@ namespace Telemetry{
         [JsonProperty(Order = 5)] public int Ammo { get; private set; }
 
 
-        public AttackEvent(ID_Event type, string ID_Weapon, int currentAmmo) : base(type) {
-            this->ID_Weapon = ID_Weapon;
+        public AttackEvent(ID_Event type, string ID_Weapon_, int currentAmmo) : base(type) {
+            ID_Weapon = ID_Weapon_;
             Ammo = currentAmmo;
         }
     }
