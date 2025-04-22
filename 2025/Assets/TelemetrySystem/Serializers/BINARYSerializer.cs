@@ -7,16 +7,22 @@ namespace Telemetry {
     /// </summary>
     public class BinarySerializer : Serializer {
         public string Serialize(Event t_event) {
-            #pragma warning disable SYSLIB0011
-            var formatter = new BinaryFormatter();
-            #pragma warning restore SYSLIB0011
+            string serialized;
+            BinaryFormatter binaryFormatter = new BinaryFormatter();
+            using (MemoryStream memoryStream = new MemoryStream()) {
+                memoryStream.Position = 0;
 
-            // Serializamos en memoria
-            using var memoryStream = new MemoryStream();
-            formatter.Serialize(memoryStream, t_event);
+                #pragma warning disable SYSLIB0011
+                binaryFormatter.Serialize(memoryStream, t_event);
+                #pragma warning restore SYSLIB0011
 
-            // Convertimos los bytes a string usando base64 para evitar caracteres extraños
-            return Convert.ToBase64String(memoryStream.ToArray());
+
+                using (StreamReader streamReader = new StreamReader(memoryStream)) {
+                    serialized = streamReader.ReadToEnd();
+                }
+            }
+
+            return serialized;
         }
 
         public string Extension() {

@@ -1,0 +1,11 @@
+{
+  "ID_Event_": "SESSION_START",
+  "ID_Session": 0,
+  "TimeStamp": 1745357904
+}
+{
+  "ID_Event_": "LEVEL_END",
+  "ID_Session": 0,
+  "TimeStamp": 1745357905,
+  "ID_Level": 1
+}
