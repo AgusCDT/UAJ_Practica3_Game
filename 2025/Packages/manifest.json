@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.g08.game_telemetry": "https://github.com/AgusCDT/UAJ_P3_TelemetrySystem.git",
     "com.unity.2d.animation": "9.1.1",
     "com.unity.2d.pixel-perfect": "5.0.3",
     "com.unity.2d.psdimporter": "8.0.5",
