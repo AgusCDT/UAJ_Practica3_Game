@@ -3,8 +3,8 @@ using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Threading;
 using UnityEngine;
-/*
-namespace telemetry
+
+namespace Telemetry
 {
     public class Telemetry
     {
@@ -18,7 +18,7 @@ namespace telemetry
         private bool runningThread;
 
         private List<Persistence> persistences;
-        private ConcurrentQueue<TelemetryEvent> eventQueue;
+        private ConcurrentQueue<Event> eventQueue;
 
         /// <summary>
         /// Session ID to be used across the telemetry
@@ -77,7 +77,7 @@ namespace telemetry
         /// Stores the event to track
         /// </summary>
         /// <param name="t_event"></param>
-        public void TrackEvent(TelemetryEvent t_event)
+        public void TrackEvent(Event t_event)
         {
             eventQueue.Enqueue(t_event);
         }
@@ -100,7 +100,7 @@ namespace telemetry
         /// </summary>
         private void Persist()
         {
-            TelemetryEvent? t_event;
+            Event? t_event;
             while (eventQueue.TryDequeue(out t_event))
             {
                 foreach (Persistence persistence in persistences)
@@ -117,13 +117,13 @@ namespace telemetry
             GameName = gameName_;
             SessionID = sessionId_;
 
-            eventQueue = new ConcurrentQueue<TelemetryEvent>();
-            eventQueue.Enqueue(new SessionStartEvent(TelemetryEvent.EventType.SESSION_START));
+            eventQueue = new ConcurrentQueue<Event>();
+            eventQueue.Enqueue(new SessionStartEvent(Event.ID_Event.SESSION_START));
 
             persistences = new List<Persistence>();
             persistences.Add(new FilePersistence(new JsonSerializer()));
-            persistences.Add(new FilePersistence(new CsvSerializer()));
-            persistences.Add(new FilePersistence(new BinarySerializer()));
+           // persistences.Add(new FilePersistence(new CsvSerializer()));
+           // persistences.Add(new FilePersistence(new BinarySerializer()));
 
             runningThread = true;
             telemetryThread = new Thread(Run);
@@ -136,9 +136,9 @@ namespace telemetry
         private void TelemetryStop()
         {
             runningThread = false;
-            eventQueue.Enqueue(new SessionEndEvent(TelemetryEvent.EventType.SESSION_END));
+            eventQueue.Enqueue(new SessionEndEvent(Event.ID_Event.SESSION_END));
             telemetryThread.Join();
         }
     }
 }
-*/
+
