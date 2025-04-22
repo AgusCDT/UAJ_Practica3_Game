@@ -51,7 +51,7 @@ public class GameManager : MonoBehaviour
     #region methods
     private void Awake()
     {
-        Telemetry.Telemetry.Init("./telemetry_data/", "2025", 1)
+        Telemetry.Telemetry.Init("./telemetry_data/", "2025", 1);
         if(_instance == null)
         {
             _instance = this;

@@ -1,0 +1,3 @@
+[submodule "Assets/TelemetrySystem"]
+	path = Assets/TelemetrySystem
+	url = https://github.com/AgusCDT/UAJ_P3_TelemetrySystem
