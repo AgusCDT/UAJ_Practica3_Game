@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
+using Telemetry;
 public class GameManager : MonoBehaviour
 {
     #region parameters
@@ -51,6 +51,7 @@ public class GameManager : MonoBehaviour
     #region methods
     private void Awake()
     {
+        Telemetry.Telemetry.Init("./telemetry_data/", "2025", 1)
         if(_instance == null)
         {
             _instance = this;
@@ -144,6 +145,7 @@ public class GameManager : MonoBehaviour
     }
     public void QuitGame()
     {
+        Telemetry.Telemetry.Release();
         Application.Quit();
     }
    
@@ -230,6 +232,7 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         DontDestroyOnLoad(gameObject);
-        _listInteractableObjects = new List<InteractDetection>();     
+        _listInteractableObjects = new List<InteractDetection>();
+        Telemetry.Telemetry.Instance.TrackEvent(new LevelEndEvent(Telemetry.Event.ID_Event.LEVEL_END, 1));
     }
 }
