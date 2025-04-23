@@ -2045,6 +2045,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   boy: 0
+  _directory: ./telemetry_data/
+  _gameName: 2025
+  _sessionID: 2
   IsGamePaused: 0
   _currentLife: 100
   _player: {fileID: 0}

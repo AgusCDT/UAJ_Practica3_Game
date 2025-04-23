@@ -7,6 +7,11 @@ public class GameManager : MonoBehaviour
 {
     #region parameters
     public bool boy;
+    [Header("Parámetros de Telemetría")]
+    [SerializeField] private string _directory;
+    [SerializeField] private string _gameName;
+    [SerializeField] private long _sessionID;
+    [Header("Parámetros de Juego")]
     #endregion
 
     #region properties
@@ -51,7 +56,7 @@ public class GameManager : MonoBehaviour
     #region methods
     private void Awake()
     {
-        Telemetry.Telemetry.Init("./telemetry_data/", "2025", 1);
+        Telemetry.Telemetry.Init(_directory, _gameName, _sessionID);
         if(_instance == null)
         {
             _instance = this;
@@ -197,7 +202,7 @@ public class GameManager : MonoBehaviour
             DontDestroyOnLoad(_player);
         }
         if(level == 2)
-        {
+        {     
             Telemetry.Telemetry.Instance.TrackEvent(new LevelStartEvent(Telemetry.Event.ID_Event.LEVEL_START, level));
 
             _notaKey = GameObject.Find("HojaBlancaKey");
@@ -226,13 +231,11 @@ public class GameManager : MonoBehaviour
         }
         if(level == 3)
         {
-            Telemetry.Telemetry.Instance.TrackEvent(new LevelEndEvent(Telemetry.Event.ID_Event.LEVEL_END, level));
             Destroy(_player);
             UI_Manager.Instance.WinMenu(); // Llamada para que salga el menú de victoria
         }
         if (level == 4)
-        {
-            Telemetry.Telemetry.Instance.TrackEvent(new LevelEndEvent(Telemetry.Event.ID_Event.LEVEL_END, level));
+        {         
             Destroy(_player);
             UI_Manager.Instance.GameOverMenu();
         }

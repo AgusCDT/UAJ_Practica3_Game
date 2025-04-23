@@ -20,7 +20,7 @@ namespace Telemetry
 
         protected Event(ID_Event type) {
             ID_Event_ = type.ToString();
-           // ID_Session = Telemetry.Instance.SessionID;
+            ID_Session = Telemetry.Instance.SessionID;
             TimeStamp = ((System.DateTimeOffset)System.DateTime.UtcNow).ToUnixTimeSeconds();
         }
     }

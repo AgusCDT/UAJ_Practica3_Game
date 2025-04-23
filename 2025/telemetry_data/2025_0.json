@@ -1,0 +1,493 @@
+{
+  "ID_Event_": "SESSION_START",
+  "ID_Session": 0,
+  "TimeStamp": 1745413076
+}
+{
+  "ID_Event_": "LEVEL_START",
+  "ID_Session": 0,
+  "TimeStamp": 1745413083,
+  "ID_Level": 1
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": 0,
+  "TimeStamp": 1745413087,
+  "ID_Interactuable": "PalancaDisponible"
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": 0,
+  "TimeStamp": 1745413092,
+  "ID_Interactuable": "NotaPrincipal"
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": 0,
+  "TimeStamp": 1745413103,
+  "ID_Interactuable": "NotaAscensor"
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": 0,
+  "TimeStamp": 1745413132,
+  "ID_Interactuable": "Fusible"
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413147,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413149,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "DAMAGE_RECIEVED",
+  "ID_Session": 0,
+  "TimeStamp": 1745413153,
+  "ID_Entity": "Slow_Zombie_2",
+  "damage": 10,
+  "death": false
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413164,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413166,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413168,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413171,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "DAMAGE_RECIEVED",
+  "ID_Session": 0,
+  "TimeStamp": 1745413172,
+  "ID_Entity": "Slow_Zombie",
+  "damage": 10,
+  "death": false
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413172,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "DAMAGE_RECIEVED",
+  "ID_Session": 0,
+  "TimeStamp": 1745413173,
+  "ID_Entity": "Slow_Zombie",
+  "damage": 10,
+  "death": false
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413174,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": 0,
+  "TimeStamp": 1745413184,
+  "ID_Interactuable": "PistolaDisponible"
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": 0,
+  "TimeStamp": 1745413185,
+  "ID_Interactuable": "Municion"
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413200,
+  "ID_Weapon": "Pistola",
+  "Ammo": 8
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413200,
+  "ID_Weapon": "Pistola",
+  "Ammo": 7
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413200,
+  "ID_Weapon": "Pistola",
+  "Ammo": 6
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413202,
+  "ID_Weapon": "Pistola",
+  "Ammo": 5
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413202,
+  "ID_Weapon": "Pistola",
+  "Ammo": 4
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": 0,
+  "TimeStamp": 1745413216,
+  "ID_Interactuable": "Municion"
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": 0,
+  "TimeStamp": 1745413222,
+  "ID_Interactuable": "Fusible"
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413241,
+  "ID_Weapon": "Pistola",
+  "Ammo": 3
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413241,
+  "ID_Weapon": "Pistola",
+  "Ammo": 2
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413242,
+  "ID_Weapon": "Pistola",
+  "Ammo": 1
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413242,
+  "ID_Weapon": "Pistola",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413244,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413258,
+  "ID_Weapon": "Pistola",
+  "Ammo": 9
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413258,
+  "ID_Weapon": "Pistola",
+  "Ammo": 8
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413259,
+  "ID_Weapon": "Pistola",
+  "Ammo": 7
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413259,
+  "ID_Weapon": "Pistola",
+  "Ammo": 6
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413260,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413262,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413264,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "DAMAGE_RECIEVED",
+  "ID_Session": 0,
+  "TimeStamp": 1745413264,
+  "ID_Entity": "Fast_Zombie",
+  "damage": 10,
+  "death": false
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413265,
+  "ID_Weapon": "Pistola",
+  "Ammo": 5
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": 0,
+  "TimeStamp": 1745413270,
+  "ID_Interactuable": "Fusible"
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413290,
+  "ID_Weapon": "Pistola",
+  "Ammo": 4
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413291,
+  "ID_Weapon": "Pistola",
+  "Ammo": 3
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413291,
+  "ID_Weapon": "Pistola",
+  "Ammo": 2
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413293,
+  "ID_Weapon": "Pistola",
+  "Ammo": 1
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413293,
+  "ID_Weapon": "Pistola",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413305,
+  "ID_Weapon": "Pistola",
+  "Ammo": 9
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413306,
+  "ID_Weapon": "Pistola",
+  "Ammo": 8
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413307,
+  "ID_Weapon": "Pistola",
+  "Ammo": 7
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413307,
+  "ID_Weapon": "Pistola",
+  "Ammo": 6
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413308,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413312,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": 0,
+  "TimeStamp": 1745413313,
+  "ID_Interactuable": "Electricidad"
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413337,
+  "ID_Weapon": "Pistola",
+  "Ammo": 5
+}
+{
+  "ID_Event_": "DAMAGE_RECIEVED",
+  "ID_Session": 0,
+  "TimeStamp": 1745413341,
+  "ID_Entity": "Fast_Zombie_1",
+  "damage": 10,
+  "death": false
+}
+{
+  "ID_Event_": "DAMAGE_RECIEVED",
+  "ID_Session": 0,
+  "TimeStamp": 1745413341,
+  "ID_Entity": "Fast_Zombie_1",
+  "damage": 10,
+  "death": false
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413343,
+  "ID_Weapon": "Pistola",
+  "Ammo": 4
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413343,
+  "ID_Weapon": "Pistola",
+  "Ammo": 3
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413345,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "DAMAGE_RECIEVED",
+  "ID_Session": 0,
+  "TimeStamp": 1745413346,
+  "ID_Entity": "Fast_Zombie_1",
+  "damage": 10,
+  "death": false
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413347,
+  "ID_Weapon": "Pistola",
+  "Ammo": 2
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413347,
+  "ID_Weapon": "Pistola",
+  "Ammo": 1
+}
+{
+  "ID_Event_": "DAMAGE_RECIEVED",
+  "ID_Session": 0,
+  "TimeStamp": 1745413348,
+  "ID_Entity": "Fast_Zombie_1",
+  "damage": 10,
+  "death": false
+}
+{
+  "ID_Event_": "DAMAGE_RECIEVED",
+  "ID_Session": 0,
+  "TimeStamp": 1745413348,
+  "ID_Entity": "Fast_Zombie_1",
+  "damage": 10,
+  "death": false
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": 0,
+  "TimeStamp": 1745413348,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "DAMAGE_RECIEVED",
+  "ID_Session": 0,
+  "TimeStamp": 1745413349,
+  "ID_Entity": "Fast_Zombie_1",
+  "damage": 10,
+  "death": false
+}
+{
+  "ID_Event_": "DAMAGE_RECIEVED",
+  "ID_Session": 0,
+  "TimeStamp": 1745413349,
+  "ID_Entity": "Fast_Zombie_1",
+  "damage": 10,
+  "death": false
+}
+{
+  "ID_Event_": "DAMAGE_RECIEVED",
+  "ID_Session": 0,
+  "TimeStamp": 1745413350,
+  "ID_Entity": "Fast_Zombie_1",
+  "damage": 10,
+  "death": false
+}
+{
+  "ID_Event_": "DAMAGE_RECIEVED",
+  "ID_Session": 0,
+  "TimeStamp": 1745413350,
+  "ID_Entity": "Fast_Zombie_1",
+  "damage": 10,
+  "death": false
+}
+{
+  "ID_Event_": "DEATH",
+  "ID_Session": 0,
+  "TimeStamp": 1745413351
+}
+{
+  "ID_Event_": "SESSION_END",
+  "ID_Session": 0,
+  "TimeStamp": 1745413357
+}

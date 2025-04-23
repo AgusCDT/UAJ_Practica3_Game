@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using Telemetry;
 
 public class ChangeLvl_2 : MonoBehaviour
 {
@@ -20,6 +21,7 @@ public class ChangeLvl_2 : MonoBehaviour
 
         if (hitPlayer)
         {
+            Telemetry.Telemetry.Instance.TrackEvent(new LevelEndEvent(Telemetry.Event.ID_Event.LEVEL_END, 2));
             _myTransition.FadeOut();            
         }      
     }
