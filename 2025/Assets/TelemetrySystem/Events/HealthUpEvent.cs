@@ -2,7 +2,7 @@
 
 namespace Telemetry{
     /// <summary>
-    /// Evento cuando ataca el jugador
+    /// Evento cuando jugador se cura
     /// </summary>
     [System.Serializable]
     public class HealthUpEvent : Event {

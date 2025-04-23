@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Telemetry;
 
 public class Bullet_Attack : MonoBehaviour
 {
@@ -33,6 +34,7 @@ public class Bullet_Attack : MonoBehaviour
             Destroy(gameObject);
             var heading = _mytransform.position - hitZombie.transform.position;
             collision.attachedRigidbody.AddForce(heading * -empuje, ForceMode2D.Impulse);
+            Telemetry.Telemetry.Instance.TrackEvent(new HitEvent(Telemetry.Event.ID_Event.HIT, gameObject.name, 0));
         }
 
         if (hitWalls)
