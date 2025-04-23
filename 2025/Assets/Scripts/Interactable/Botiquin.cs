@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Telemetry;
 using UnityEngine;
 
 public class Botiquin : MonoBehaviour
@@ -17,6 +18,7 @@ public class Botiquin : MonoBehaviour
     {
         if (_myPlayerLifeComponent._currentLife > 0 && _myPlayerLifeComponent._currentLife < 100)
         {
+            Telemetry.Telemetry.Instance.TrackEvent(new HealthUpEvent(Telemetry.Event.ID_Event.HEALTH_UP, _heal));
             _myPlayerLifeComponent.Cura(_heal);
             SoundManager.Instance.PlayOneShot(FMODEventsManager.Instance.pickedItem, this.transform.position);
         }
