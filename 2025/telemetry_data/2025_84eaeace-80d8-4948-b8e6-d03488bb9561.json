@@ -1,0 +1,859 @@
+{
+  "ID_Event_": "SESSION_START",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434293
+}
+{
+  "ID_Event_": "LEVEL_START",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434300,
+  "ID_Level": 1
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434305,
+  "ID_Interactuable": "PalancaDisponible"
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434309,
+  "ID_Interactuable": "NotaPrincipal"
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434320,
+  "ID_Interactuable": "NotaAscensor"
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434335,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434335,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434337,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434337,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434339,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434339,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434341,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434341,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434342,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434343,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434367,
+  "ID_Interactuable": "Fusible"
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434390,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434390,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434392,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434392,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434394,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434394,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434395,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434395,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "DAMAGE_RECIEVED",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434396,
+  "ID_Entity": "Slow_Zombie",
+  "damage": 10,
+  "death": false
+}
+{
+  "ID_Event_": "DAMAGE_RECIEVED",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434397,
+  "ID_Entity": "Slow_Zombie",
+  "damage": 10,
+  "death": false
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434397,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434397,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434406,
+  "ID_Interactuable": "PistolaDisponible"
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434407,
+  "ID_Interactuable": "Municion"
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434415,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434415,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434417,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434417,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434419,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434419,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434421,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434421,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434423,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434423,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434428,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434428,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434430,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434430,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434431,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434432,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434433,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434433,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434435,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434435,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434451,
+  "ID_Interactuable": "Municion"
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434457,
+  "ID_Interactuable": "Fusible"
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434472,
+  "ID_Weapon": "Pistola",
+  "Ammo": 8
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434472,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434473,
+  "ID_Weapon": "Pistola",
+  "Ammo": 7
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434473,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434474,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434474,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434476,
+  "ID_Weapon": "Pistola",
+  "Ammo": 6
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434476,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434477,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434477,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434478,
+  "ID_Weapon": "Pistola",
+  "Ammo": 5
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434487,
+  "ID_Weapon": "Pistola",
+  "Ammo": 4
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434487,
+  "ID_Weapon": "Pistola",
+  "Ammo": 3
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434488,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434488,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434489,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434489,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434490,
+  "ID_Weapon": "Pistola",
+  "Ammo": 2
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434490,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434491,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434492,
+  "ID_Weapon": "Pistola",
+  "Ammo": 1
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434492,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434502,
+  "ID_Weapon": "Pistola",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434503,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434504,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434504,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434505,
+  "ID_Weapon": "Pistola",
+  "Ammo": 9
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434505,
+  "ID_Weapon": "Pistola",
+  "Ammo": 8
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434506,
+  "ID_Weapon": "Pistola",
+  "Ammo": 7
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434506,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434506,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434506,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434506,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434507,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434508,
+  "ID_Weapon": "Pistola",
+  "Ammo": 6
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434508,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "DAMAGE_RECIEVED",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434510,
+  "ID_Entity": "Fast_Zombie",
+  "damage": 10,
+  "death": false
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434510,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434510,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434517,
+  "ID_Interactuable": "Fusible"
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434533,
+  "ID_Weapon": "Pistola",
+  "Ammo": 5
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434533,
+  "ID_Weapon": "Pistola",
+  "Ammo": 4
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434533,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434533,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434534,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434534,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434535,
+  "ID_Weapon": "Pistola",
+  "Ammo": 3
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434535,
+  "ID_Weapon": "Pistola",
+  "Ammo": 2
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434535,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434535,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HEALTH_UP",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434545,
+  "healing_amount": 20
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434545,
+  "ID_Interactuable": "Botiquin"
+}
+{
+  "ID_Event_": "INTERACTION",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434551,
+  "ID_Interactuable": "Electricidad"
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434576,
+  "ID_Weapon": "Pistola",
+  "Ammo": 1
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434576,
+  "ID_Weapon": "Pistola",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434576,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434577,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434577,
+  "ID_Weapon": "Pistola",
+  "Ammo": 9
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434578,
+  "ID_Weapon": "Pistola",
+  "Ammo": 8
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434578,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434578,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434578,
+  "ID_Weapon": "Pistola",
+  "Ammo": 7
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434579,
+  "ID_Weapon": "Pistola",
+  "Ammo": 6
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434579,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434579,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434580,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434580,
+  "ID_Weapon": "Crowbar_Dash(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434581,
+  "ID_Weapon": "Palanca",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "ATTACK",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434583,
+  "ID_Weapon": "Pistola",
+  "Ammo": 5
+}
+{
+  "ID_Event_": "HIT",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434584,
+  "ID_Weapon": "Pistol_Bullet(Clone)",
+  "Ammo": 0
+}
+{
+  "ID_Event_": "LEVEL_END",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434597,
+  "ID_Level": 1
+}
+{
+  "ID_Event_": "LEVEL_PAUSE",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434599,
+  "ID_Level": 1
+}
+{
+  "ID_Event_": "SESSION_END",
+  "ID_Session": "84eaeace-80d8-4948-b8e6-d03488bb9561",
+  "TimeStamp": 1745434600
+}

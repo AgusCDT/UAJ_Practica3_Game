@@ -6,6 +6,9 @@ using Telemetry;
 
 public class ChangeLvl_1 : MonoBehaviour
 {
+    #region parameters
+    private bool _tracked;
+    #endregion
     #region references
     private Transition _myTransition;
     #endregion
@@ -14,6 +17,7 @@ public class ChangeLvl_1 : MonoBehaviour
     void Awake()
     {
         _myTransition = FindObjectOfType<Transition>();
+        _tracked = false;
     }
     private void OnTriggerStay2D(Collider2D collision)
     {
@@ -21,7 +25,12 @@ public class ChangeLvl_1 : MonoBehaviour
 
         if (hitPlayer)
         {
-            Telemetry.Telemetry.Instance.TrackEvent(new LevelEndEvent(Telemetry.Event.ID_Event.LEVEL_END, 1));
+            if (_tracked == false)
+            {
+                Telemetry.Telemetry.Instance.TrackEvent(new LevelEndEvent(Telemetry.Event.ID_Event.LEVEL_END, 1));
+                _tracked = true;
+            }
+            
             _myTransition.FadeOut();
         }
     }

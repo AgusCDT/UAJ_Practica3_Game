@@ -6,6 +6,9 @@ using Telemetry;
 
 public class ChangeLvl_2 : MonoBehaviour
 {
+    #region parameters
+    private bool _tracked;
+    #endregion
     #region references
     private Transition _myTransition;
     #endregion
@@ -21,7 +24,12 @@ public class ChangeLvl_2 : MonoBehaviour
 
         if (hitPlayer)
         {
-            Telemetry.Telemetry.Instance.TrackEvent(new LevelEndEvent(Telemetry.Event.ID_Event.LEVEL_END, 2));
+            if (_tracked == false)
+            {
+                Telemetry.Telemetry.Instance.TrackEvent(new LevelEndEvent(Telemetry.Event.ID_Event.LEVEL_END, 2));
+                _tracked = true;
+            }
+           
             _myTransition.FadeOut();            
         }      
     }
