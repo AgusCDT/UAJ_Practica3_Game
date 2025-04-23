@@ -1,8 +1,8 @@
+using System;
 using System.Collections;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Threading;
-//using UnityEngine;
 
 namespace Telemetry {
     public class Telemetry {
@@ -21,8 +21,8 @@ namespace Telemetry {
         /// <summary>
         /// Session ID utilizada en la telemetría
         /// </summary>
-        private long sessionID;
-        public long SessionID { get => sessionID; private set { sessionID = value; } }
+        private string sessionID;
+        public string SessionID { get => sessionID; private set { sessionID = value; } }
 
         /// <summary>
         /// Nombre del juego utilizado en la telemetría
@@ -44,16 +44,15 @@ namespace Telemetry {
         /// Inicializa la instancia de la telemetría
         /// Devuelve null en caso de haberse ya llamado.
         /// </summary>
-        /// <param name="directory_">Directory path to store the data files</param>
-        /// <param name="gameName_">Game name used to be used across the telemetry</param>
-        /// <param name="sessionId_">Session ID to be used across the telemetry</param>
-        /// <returns>true if correctly initialized</returns>
-        public static bool Init(string directory_, string gameName_, long sessionId_) {
+        /// <param name="directory_">Directorio donde guardar los datos</param>
+        /// <param name="gameName_">Nombre del juego</param>
+        /// <returns>true si se ha inicializado correctamente</returns>
+        public static bool Init(string directory_, string gameName_) {
             if (instance != null) {
                 System.Console.WriteLine("Ya has inicializado la instancia.");
                 return false;
             }
-
+            string sessionId_ = Guid.NewGuid().ToString();
             instance = new Telemetry();
             instance.TelemetrySetup(directory_, gameName_, sessionId_);
             return true;
@@ -100,7 +99,7 @@ namespace Telemetry {
         /// <summary>
         /// Setup de la instancia.
         /// </summary>
-        private void TelemetrySetup(string directory_, string gameName_, long sessionId_) {
+        private void TelemetrySetup(string directory_, string gameName_, string sessionId_) {
             Directory = directory_;
             GameName = gameName_;
             SessionID = sessionId_;

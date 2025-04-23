@@ -15,7 +15,7 @@ namespace Telemetry
             ATTACK, DAMAGE_RECIEVED, DEATH, INTERACTION };
 
         [JsonProperty(Order = 1)] public string ID_Event_ { get; private set; }
-        [JsonProperty(Order = 2)] public long ID_Session { get; private set; }
+        [JsonProperty(Order = 2)] public string ID_Session { get; private set; }
         [JsonProperty(Order = 3)] public long TimeStamp { get; private set; }
 
         protected Event(ID_Event type) {

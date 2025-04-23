@@ -10,7 +10,6 @@ public class GameManager : MonoBehaviour
     [Header("Parámetros de Telemetría")]
     [SerializeField] private string _directory;
     [SerializeField] private string _gameName;
-    [SerializeField] private long _sessionID;
     [Header("Parámetros de Juego")]
     #endregion
 
@@ -56,7 +55,7 @@ public class GameManager : MonoBehaviour
     #region methods
     private void Awake()
     {
-        Telemetry.Telemetry.Init(_directory, _gameName, _sessionID);
+        Telemetry.Telemetry.Init(_directory, _gameName);
         if(_instance == null)
         {
             _instance = this;
