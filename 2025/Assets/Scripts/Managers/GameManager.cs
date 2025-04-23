@@ -140,13 +140,14 @@ public class GameManager : MonoBehaviour
 
     public void PauseGame()
     {
+        Telemetry.Telemetry.Instance.TrackEvent(new LevelPauseEvent(Telemetry.Event.ID_Event.LEVEL_PAUSE, 1));      
         IsGamePaused = true;
         UI_Manager.Instance.PauseMenu(true);   
     }
     public void QuitGame()
-    {
-        Telemetry.Telemetry.Release();
+    {     
         Application.Quit();
+        Telemetry.Telemetry.Release();
     }
    
     public void StartGame()
@@ -170,6 +171,8 @@ public class GameManager : MonoBehaviour
         SceneManager.GetActiveScene(); 
         if (level == 1)
         {
+            Telemetry.Telemetry.Instance.TrackEvent(new LevelStartEvent(Telemetry.Event.ID_Event.LEVEL_START, level));
+
             SoundManager.Instance.InitializeAmbience();
             _notaRoom = GameObject.Find("HojaBlancaRoom_1");
             _notaRoom.SetActive(false);
@@ -217,11 +220,13 @@ public class GameManager : MonoBehaviour
         }
         if(level == 3)
         {
+            Telemetry.Telemetry.Instance.TrackEvent(new LevelEndEvent(Telemetry.Event.ID_Event.LEVEL_END, level));
             Destroy(_player);
             UI_Manager.Instance.WinMenu(); // Llamada para que salga el menú de victoria
         }
         if (level == 4)
         {
+            Telemetry.Telemetry.Instance.TrackEvent(new LevelEndEvent(Telemetry.Event.ID_Event.LEVEL_END, level));
             Destroy(_player);
             UI_Manager.Instance.GameOverMenu();
         }
@@ -233,6 +238,5 @@ public class GameManager : MonoBehaviour
     {
         DontDestroyOnLoad(gameObject);
         _listInteractableObjects = new List<InteractDetection>();
-        Telemetry.Telemetry.Instance.TrackEvent(new LevelEndEvent(Telemetry.Event.ID_Event.LEVEL_END, 1));
     }
 }

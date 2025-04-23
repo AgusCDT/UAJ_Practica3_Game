@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using Telemetry;
 
 public class UI_Manager : MonoBehaviour
 {
@@ -97,6 +98,7 @@ public class UI_Manager : MonoBehaviour
         _pauseMenu.SetActive(enabled);
         if (!enabled)
         {
+            Telemetry.Telemetry.Instance.TrackEvent(new LevelResumeEvent(Telemetry.Event.ID_Event.LEVEL_RESUME, 1));
             GameManager.Instance.IsGamePaused = false;
         }     
     }

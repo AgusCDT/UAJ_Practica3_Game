@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Telemetry;
 using UnityEngine;
 
 public class Player_Interact : MonoBehaviour
@@ -40,26 +41,32 @@ public class Player_Interact : MonoBehaviour
             if (hitMunicion)
             {
                 hitInteractableObject.Interact(1);
+                Telemetry.Telemetry.Instance.TrackEvent(new InteractionEvent(Telemetry.Event.ID_Event.INTERACTION, "Municion"));
             }
             else if (hitFusible)
             {
                 hitInteractableObject.Interact(2);
+                Telemetry.Telemetry.Instance.TrackEvent(new InteractionEvent(Telemetry.Event.ID_Event.INTERACTION, "Fusible"));
             }
             else if (hitBotiquin)
             {
                 hitInteractableObject.Interact(3);
+                Telemetry.Telemetry.Instance.TrackEvent(new InteractionEvent(Telemetry.Event.ID_Event.INTERACTION, "Botiquin"));
             }
             else if (hitNota)
             {
                 hitInteractableObject.Interact(4);
+                Telemetry.Telemetry.Instance.TrackEvent(new InteractionEvent(Telemetry.Event.ID_Event.INTERACTION, "NotaPrincipal"));
             }
             else if (hitCadaver)
             {
                 hitInteractableObject.Interact(5);
+                Telemetry.Telemetry.Instance.TrackEvent(new InteractionEvent(Telemetry.Event.ID_Event.INTERACTION, "PalancaDisponible"));
             }
             else if (hitCadaver2)
             {
                 hitInteractableObject.Interact(6);
+                Telemetry.Telemetry.Instance.TrackEvent(new InteractionEvent(Telemetry.Event.ID_Event.INTERACTION, "PistolaDisponible"));
             }
             else if (hitCadaver3)
             {
@@ -72,6 +79,7 @@ public class Player_Interact : MonoBehaviour
             else if (hitElevator)
             {
                 hitInteractableObject.Interact(9);
+                Telemetry.Telemetry.Instance.TrackEvent(new InteractionEvent(Telemetry.Event.ID_Event.INTERACTION, "Ascensor"));
             }
             else if (hitParkingDoor)
             {
@@ -80,10 +88,12 @@ public class Player_Interact : MonoBehaviour
             else if (hitElectricityActivated)
             {
                 hitInteractableObject.Interact(11);
+                Telemetry.Telemetry.Instance.TrackEvent(new InteractionEvent(Telemetry.Event.ID_Event.INTERACTION, "Electricidad"));
             }
             else if (hitNotaElevator)
             {
                 hitInteractableObject.Interact(12);
+                Telemetry.Telemetry.Instance.TrackEvent(new InteractionEvent(Telemetry.Event.ID_Event.INTERACTION, "NotaAscensor"));
             }
             else if (hitNotaKey)
             {
