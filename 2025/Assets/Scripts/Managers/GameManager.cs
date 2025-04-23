@@ -194,6 +194,8 @@ public class GameManager : MonoBehaviour
         }
         if(level == 2)
         {
+            Telemetry.Telemetry.Instance.TrackEvent(new LevelStartEvent(Telemetry.Event.ID_Event.LEVEL_START, level));
+
             _notaKey = GameObject.Find("HojaBlancaKey");
             _notaKey.SetActive(false);
             _notaShotgun = GameObject.Find("HojaBlancaShotgun");

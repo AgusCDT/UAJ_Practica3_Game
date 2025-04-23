@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using Telemetry;
 
 public class Player_Life_Component : Life_Component
 {
@@ -37,6 +38,7 @@ public class Player_Life_Component : Life_Component
 
         if (enemigo) //Si el objeto con el que colisiona es un enemigo se usa la posición del enemigo para calcular la direccion de empuje
         {
+            Telemetry.Telemetry.Instance.TrackEvent(new DamageReceivedEvent(Telemetry.Event.ID_Event.DAMAGE_RECIEVED, enemigo.name, 10, false));
             SoundManager.Instance.PlayOneShot(FMODEventsManager.Instance.zombieBite, enemigo.transform.position);
             var heading = enemigo.transform.position - _myTransform.position; //Direccion de empuje    
             //Necesitamos la direccion del jugador o del zombie
@@ -89,6 +91,7 @@ public class Player_Life_Component : Life_Component
             if (_cont <= 0)
             {
                 SoundManager.Instance.ReleasePlayerBreathing();
+                Telemetry.Telemetry.Instance.TrackEvent(new DeathEvent(Telemetry.Event.ID_Event.DEATH));
                 Die(); //GameManager.Instance.OnPlayerDies();
                 GameManager.Instance.LoadGameOverMenu();
                 _cont = 1.7f;

@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Telemetry;
 using UnityEngine;
 
 public class Life_Component : MonoBehaviour
@@ -26,7 +27,7 @@ public class Life_Component : MonoBehaviour
         Player_Life_Component hitPlayer = collision.gameObject.GetComponent<Player_Life_Component>();
         if (hitPlayer)
         {
-            hitPlayer.Damage(_damage);
+            hitPlayer.Damage(_damage);           
         }
     }
 
@@ -39,7 +40,6 @@ public class Life_Component : MonoBehaviour
     protected void Die()
     {
         gameObject.SetActive(false);
-        
     }
     #endregion
 

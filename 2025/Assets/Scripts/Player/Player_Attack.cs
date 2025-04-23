@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Telemetry;
 
 public class Player_Attack : MonoBehaviour
 {
@@ -61,6 +62,7 @@ public class Player_Attack : MonoBehaviour
                 GameObject.Instantiate(PalancaDash, _mytransform.position + new Vector3(0, 0, 0), Quaternion.Euler(rotationVector));
                 CrowbarSpam = true;
                 SoundManager.Instance.PlayOneShot(FMODEventsManager.Instance.crowbarSwing, this.transform.position);
+                Telemetry.Telemetry.Instance.TrackEvent(new AttackEvent(Telemetry.Event.ID_Event.ATTACK, "Palanca", 0));
             }
         }
             
@@ -75,6 +77,7 @@ public class Player_Attack : MonoBehaviour
                     PistolBulletsLeft -= 1;
                     UI_Manager.Instance.balagUI(PistolBulletsLeft, TotalPistolAmmount);
                     SoundManager.Instance.PlayOneShot(FMODEventsManager.Instance.pistolShot, this.transform.position);
+                    Telemetry.Telemetry.Instance.TrackEvent(new AttackEvent(Telemetry.Event.ID_Event.ATTACK, "Pistola", PistolBulletsLeft));
                 }
             }
         }
