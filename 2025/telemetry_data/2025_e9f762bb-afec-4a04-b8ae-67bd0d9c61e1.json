@@ -1,0 +1,11 @@
+{
+  "ID_Event_": "SESSION_START",
+  "ID_Session": "e9f762bb-afec-4a04-b8ae-67bd0d9c61e1",
+  "TimeStamp": 1745434095
+}
+{
+  "ID_Event_": "LEVEL_START",
+  "ID_Session": "e9f762bb-afec-4a04-b8ae-67bd0d9c61e1",
+  "TimeStamp": 1745434102,
+  "ID_Level": 1
+}
