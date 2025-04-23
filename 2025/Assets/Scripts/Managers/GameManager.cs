@@ -145,8 +145,12 @@ public class GameManager : MonoBehaviour
         UI_Manager.Instance.PauseMenu(true);   
     }
     public void QuitGame()
-    {     
-        Application.Quit();
+    {
+    #if UNITY_EDITOR         
+        UnityEditor.EditorApplication.isPlaying = false;   // Sale del Play Mode
+    #else                   
+        Application.Quit();                               // Cierra la aplicación
+    #endif
         Telemetry.Telemetry.Release();
     }
    
